@@ -1627,3 +1627,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [10Dec2024 00:55:58.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
 [10Dec2024 00:58:19.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 1 [Book and Quill] to Steelinvisible]
 [10Dec2024 01:20:00.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
+[10Dec2024 01:27:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 1 [Chest] to Steelinvisible]
+[10Dec2024 01:27:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 1 [Chest] to Steelinvisible]
