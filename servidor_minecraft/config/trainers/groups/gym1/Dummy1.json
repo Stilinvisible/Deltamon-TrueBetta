@@ -1,0 +1,39 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:oddish",
+      "gender": "MALE",
+      "level": 7,
+      "nature": "cobblemon:impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "growth",
+        "doubleteam",
+        "endure",
+        "moonlight"
+      ],
+      "ivs": {
+        "hp": 30,
+        "attack": 29,
+        "defence": 27,
+        "special_attack": 22,
+        "special_defence": 19,
+        "speed": 3
+      },
+      "evs": {
+        "hp": 6,
+        "defence": 252,
+        "special_defence": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:exp_candy_m",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

@@ -1,0 +1,121 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:beartic",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "cobblemon:brave",
+      "ability": "slushrush",
+      "moveset": [
+        "iciclecrash",
+        "poweruppunch",
+        "closecombat",
+        "aquajet"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defence": 8,
+        "special_attack": 28,
+        "special_defence": 18,
+        "speed": 2
+      },
+      "evs": {
+        "hp": 252,
+        "attack": 128
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bergmite",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:brave",
+      "ability": "icebody",
+      "moveset": [
+        "rapidspin",
+        "icespinner",
+        "crunch",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 18,
+        "defence": 31,
+        "special_attack": 15,
+        "special_defence": 11,
+        "speed": 18
+      },
+      "evs": {
+        "hp": 252,
+        "defence": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiinotic",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "cobblemon:mild",
+      "ability": "effectspore",
+      "moveset": [
+        "thunderwave",
+        "hyperbeam",
+        "synthesis",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 4,
+        "attack": 2,
+        "defence": 24,
+        "special_attack": 15,
+        "special_defence": 1,
+        "speed": 2
+      },
+      "evs": {
+        "defence": 128,
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tsareena",
+      "gender": "FEMALE",
+      "level": 18,
+      "nature": "cobblemon:lonely",
+      "ability": "leafguard",
+      "moveset": [
+        "tropkick",
+        "doubleslap",
+        "toxic",
+        "acrobatics"
+      ],
+      "ivs": {
+        "attack": 31,
+        "defence": 23,
+        "special_attack": 23,
+        "special_defence": 3,
+        "speed": 10
+      },
+      "evs": {
+        "attack": 128,
+        "speed": 128
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

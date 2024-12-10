@@ -1,0 +1,136 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:cherrim",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "cobblemon:calm",
+      "ability": "flowergift",
+      "moveset": [
+        "dazzlinggleam",
+        "magicalleaf",
+        "growth",
+        "leechseed"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 27,
+        "defence": 19,
+        "special_attack": 11,
+        "special_defence": 16,
+        "speed": 21
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": [
+        "sunshine"
+      ]
+    },
+    {
+      "species": "cobblemon:bellossom",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "cobblemon:adamant",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gigadrain",
+        "moonlight",
+        "sunnyday",
+        "quiverdance"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 30,
+        "defence": 2,
+        "special_attack": 9,
+        "special_defence": 15,
+        "speed": 24
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:heat_rock",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:galvantula",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:lax",
+      "ability": "unnerve",
+      "moveset": [
+        "stickyweb",
+        "strugglebug",
+        "thunderwave",
+        "electroball"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 15,
+        "defence": 19,
+        "special_attack": 15,
+        "special_defence": 25,
+        "speed": 28
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:magnet",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sunflora",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:rash",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sunnyday",
+        "weatherball",
+        "gigadrain",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 29,
+        "defence": 10,
+        "special_attack": 25,
+        "special_defence": 24,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:chesto_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:simisear",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:modest",
+      "ability": "gluttony",
+      "moveset": [
+        "solarbeam",
+        "incinerate",
+        "grassknot",
+        "flamecharge"
+      ],
+      "ivs": {
+        "hp": 10,
+        "attack": 22,
+        "defence": 8,
+        "special_attack": 19,
+        "speed": 11
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:iapapa_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:modest_mint",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

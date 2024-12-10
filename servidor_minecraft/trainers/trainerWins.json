@@ -1,0 +1,205 @@
+{
+  "Dummy1": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841"
+  ],
+  "Waterfall": [
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Chara": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599"
+  ],
+  "Boss3": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Boss4": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Boss1": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro10": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Boss2": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "WaterfallGaster": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "waterfall4": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro9": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "waterfall5": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Entrenador": [
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841"
+  ],
+  "Monstro6": [
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro7": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "waterfall3": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro4": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro5": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "watefall2": [
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro2": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro3": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Monstro1": [
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "grillbys": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "1cedb1d4-1d04-3fd8-ae8d-332daf5d9841"
+  ],
+  "Hotlands5": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Hotlands6": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0"
+  ],
+  "Hotlands3": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Hotlands4": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "FinalBoss": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Core1": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Core2": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "WaterfallRoku": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "BossWaterfall": [
+    "e880a482-c27d-3fad-b186-7ce45a46be14",
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "WaterfallClover": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Hotlands1": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0",
+    "6e9f996d-6901-31d9-aa81-e82ed9e99599",
+    "e8129150-d2a9-3c82-bee7-a05f5336684d"
+  ],
+  "Hotlands2": [
+    "76bc551a-4de9-3755-b31d-00e73db3b1f0"
+  ]
+}

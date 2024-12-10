@@ -1,0 +1,65 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:amoonguss",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:calm",
+      "ability": "effectspore",
+      "moveset": [
+        "grassyterrain",
+        "energyball",
+        "spore",
+        "foulplay"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 20,
+        "defence": 9,
+        "special_attack": 11,
+        "special_defence": 15,
+        "speed": 16
+      },
+      "evs": {
+        "hp": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggutor",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:hasty",
+      "ability": "harvest",
+      "moveset": [
+        "psychic",
+        "toxic",
+        "gigadrain",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 13,
+        "defence": 8,
+        "special_attack": 19,
+        "special_defence": 30
+      },
+      "evs": {
+        "hp": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:sitrus_berry",
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "winCommand": "give %player% minecraft:brown_mushroom",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

@@ -1,0 +1,114 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:tauros",
+      "gender": "MALE",
+      "level": 23,
+      "nature": "cobblemon:careful",
+      "ability": "intimidate",
+      "moveset": [
+        "bodyslam",
+        "earthquake",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 30,
+        "attack": 31,
+        "defence": 19,
+        "special_attack": 13,
+        "special_defence": 23,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": [
+        "paldean-breed-combat"
+      ]
+    },
+    {
+      "species": "cobblemon:miltank",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:modest",
+      "ability": "scrappy",
+      "moveset": [
+        "milkdrink",
+        "block",
+        "highhorsepower"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 15,
+        "defence": 16,
+        "special_attack": 9,
+        "special_defence": 29,
+        "speed": 17
+      },
+      "evs": {
+        "hp": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:annihilape",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "shadowpunch",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 18,
+        "attack": 24,
+        "defence": 29,
+        "special_attack": 26,
+        "special_defence": 28,
+        "speed": 27
+      },
+      "evs": {
+        "attack": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:choice_band",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gholdengo",
+      "gender": "GENDERLESS",
+      "level": 28,
+      "nature": "cobblemon:bashful",
+      "ability": "goodasgold",
+      "moveset": [
+        "steelbeam",
+        "powergem",
+        "shadowball"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 16,
+        "defence": 28,
+        "special_attack": 31,
+        "special_defence": 13,
+        "speed": 31
+      },
+      "evs": {
+        "special_attack": 128,
+        "speed": 192
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:light_clay",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

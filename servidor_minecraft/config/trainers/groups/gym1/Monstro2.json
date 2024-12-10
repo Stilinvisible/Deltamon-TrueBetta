@@ -1,0 +1,66 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:shroomish",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "cobblemon:docile",
+      "ability": "effectspore",
+      "moveset": [
+        "doubleteam",
+        "round",
+        "megadrain",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 14,
+        "attack": 1,
+        "defence": 21,
+        "special_attack": 10,
+        "special_defence": 10,
+        "speed": 29
+      },
+      "evs": {
+        "hp": 102,
+        "attack": 252,
+        "speed": 156
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weepinbell",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:gentle",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "bugbite",
+        "growth",
+        "acidspray"
+      ],
+      "ivs": {
+        "hp": 2,
+        "attack": 19,
+        "special_attack": 25,
+        "special_defence": 8,
+        "speed": 3
+      },
+      "evs": {
+        "hp": 128,
+        "attack": 224
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:leftovers",
+  "lossCommand": "kill %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

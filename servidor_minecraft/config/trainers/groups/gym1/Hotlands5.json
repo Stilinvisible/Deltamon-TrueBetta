@@ -1,0 +1,91 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:flareon",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:rash",
+      "ability": "flashfire",
+      "moveset": [
+        "takedown",
+        "endeavor",
+        "flareblitz",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 27,
+        "defence": 3,
+        "special_attack": 24,
+        "special_defence": 28,
+        "speed": 5
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:focus_sash",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiftry",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "cobblemon:quirky",
+      "ability": "windrider",
+      "moveset": [
+        "explosion",
+        "suckerpunch",
+        "leafblade",
+        "poweruppunch"
+      ],
+      "ivs": {
+        "hp": 19,
+        "attack": 14,
+        "defence": 22,
+        "special_attack": 25,
+        "special_defence": 12,
+        "speed": 8
+      },
+      "evs": {
+        "attack": 128,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellossom",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "cobblemon:quiet",
+      "ability": "healer",
+      "moveset": [
+        "sleeppowder",
+        "dazzlinggleam",
+        "gigadrain",
+        "sludgebomb"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 31,
+        "defence": 12,
+        "special_attack": 25,
+        "special_defence": 3,
+        "speed": 17
+      },
+      "evs": {
+        "hp": 192,
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% minecraft:red_mushroom",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

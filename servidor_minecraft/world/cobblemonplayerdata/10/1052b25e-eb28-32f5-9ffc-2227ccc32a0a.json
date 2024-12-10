@@ -1,0 +1,61 @@
+{
+  "uuid": "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7a8e4d13-f9f5-47c4-b489-f72b8a886190",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 39,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 67,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 48,
+    "totalPvNBattleVictoryCount": 19,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "dragon": 2,
+      "ground": 5,
+      "dark": 5,
+      "normal": 3,
+      "grass": 6,
+      "poison": 3,
+      "ghost": 3,
+      "fire": 4,
+      "flying": 3,
+      "fighting": 4,
+      "water": 10,
+      "fairy": 2,
+      "psychic": 2,
+      "ice": 1,
+      "electric": 1,
+      "steel": 1,
+      "bug": 1,
+      "rock": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:gastly": 1,
+      "cobblemon:impidimp": 1,
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:basculin": 1,
+      "cobblemon:arcanine": 1,
+      "cobblemon:mankey": 1,
+      "cobblemon:primeape": 1,
+      "cobblemon:pawniard": 1,
+      "cobblemon:bisharp": 1,
+      "cobblemon:gible": 1,
+      "cobblemon:drifloon": 1,
+      "cobblemon:golduck": 1,
+      "cobblemon:rowlet": 1,
+      "cobblemon:pyukumuku": 1,
+      "cobblemon:sharpedo": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:gholdengo": []
+    }
+  }
+}

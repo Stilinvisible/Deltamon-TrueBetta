@@ -1,0 +1,119 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:combusken",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "cobblemon:quirky",
+      "ability": "speedboost",
+      "moveset": [
+        "batonpass",
+        "blazekick",
+        "doublekick",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 5,
+        "attack": 20,
+        "defence": 23,
+        "special_attack": 18,
+        "special_defence": 14,
+        "speed": 24
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:focus_sash",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:torkoal",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "cobblemon:lonely",
+      "ability": "drought",
+      "moveset": [
+        "bodyslam",
+        "amnesia",
+        "irondefense",
+        "rocktomb"
+      ],
+      "ivs": {
+        "hp": 5,
+        "attack": 16,
+        "defence": 30,
+        "special_attack": 25,
+        "special_defence": 29,
+        "speed": 28
+      },
+      "evs": {
+        "hp": 96,
+        "defence": 64,
+        "special_defence": 96
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:leafeon",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "cobblemon:brave",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leafblade",
+        "solarblade",
+        "knockoff",
+        "xscissor"
+      ],
+      "ivs": {
+        "hp": 3,
+        "attack": 13,
+        "defence": 7,
+        "special_attack": 4,
+        "special_defence": 12,
+        "speed": 15
+      },
+      "evs": {
+        "speed": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:miracle_seed",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tropius",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:bold",
+      "ability": "solarpower",
+      "moveset": [
+        "airslash",
+        "dragonpulse",
+        "gigadrain",
+        "curse"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 4,
+        "defence": 6,
+        "special_attack": 28,
+        "special_defence": 25,
+        "speed": 27
+      },
+      "evs": {
+        "hp": 128,
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:sitrus_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "kill %player%",
+  "canOnlyBeatOnce": false,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

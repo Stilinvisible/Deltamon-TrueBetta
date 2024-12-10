@@ -1,0 +1,89 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:monferno",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "cobblemon:bashful",
+      "ability": "blaze",
+      "moveset": [
+        "drainpunch",
+        "closecombat",
+        "flamecharge",
+        "flareblitz"
+      ],
+      "ivs": {
+        "hp": 29,
+        "attack": 1,
+        "defence": 30,
+        "special_attack": 16,
+        "special_defence": 20,
+        "speed": 4
+      },
+      "evs": {
+        "attack": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:maractus",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:jolly",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gigadrain",
+        "solarbeam",
+        "ingrain",
+        "hiddenpower"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 31,
+        "defence": 3,
+        "special_attack": 15,
+        "special_defence": 20,
+        "speed": 4
+      },
+      "evs": {
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:naive",
+      "ability": "drought",
+      "moveset": [
+        "willowisp",
+        "dazzlinggleam",
+        "solarbeam",
+        "mysticalfire"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 19,
+        "defence": 1,
+        "special_attack": 14,
+        "special_defence": 25,
+        "speed": 29
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:heat_rock",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:flame_orb",
+  "lossCommand": "money admin byName take %player% 500",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

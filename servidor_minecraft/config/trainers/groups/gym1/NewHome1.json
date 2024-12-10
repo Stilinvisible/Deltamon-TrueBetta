@@ -1,0 +1,35 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:flygon",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "cobblemon:mild",
+      "ability": "levitate",
+      "moveset": [
+        "supersonic",
+        "superpower",
+        "sonicboom",
+        "sandattack"
+      ],
+      "ivs": {
+        "hp": 25,
+        "attack": 29,
+        "defence": 31,
+        "special_attack": 19,
+        "special_defence": 28,
+        "speed": 19
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": false,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

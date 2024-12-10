@@ -1,0 +1,9 @@
+{
+  "eggMovesLearnable": true,
+  "tutorMovesLearnable": true,
+  "anyMoveAnyPokemon": false,
+  "imprintableBlankTMs": true,
+  "tmCooldownTicks": 100,
+  "trDropPercentChance": 10.0,
+  "tmDropPercentChance": 5.0
+}

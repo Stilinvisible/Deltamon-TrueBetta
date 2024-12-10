@@ -1,0 +1,166 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "cobblemon:timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "toxicspikes",
+        "leechseed",
+        "magicalleaf",
+        "dazzlinggleam"
+      ],
+      "ivs": {
+        "attack": 6,
+        "defence": 18,
+        "special_attack": 19,
+        "special_defence": 17,
+        "speed": 18
+      },
+      "evs": {
+        "hp": 96
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:focus_sash",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiinotic",
+      "gender": "MALE",
+      "level": 31,
+      "nature": "cobblemon:quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "ingrain",
+        "drainingkiss",
+        "gigadrain",
+        "strengthsap"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 17,
+        "defence": 22,
+        "special_attack": 14,
+        "special_defence": 9,
+        "speed": 31
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:big_root",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:abomasnow",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "cobblemon:jolly",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "trailblaze",
+        "icywind",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 31,
+        "defence": 2,
+        "special_defence": 24,
+        "speed": 31
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:never_melt_ice",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:simisear",
+      "gender": "FEMALE",
+      "level": 33,
+      "nature": "cobblemon:jolly",
+      "ability": "gluttony",
+      "moveset": [
+        "flamecharge",
+        "grassknot",
+        "rocktomb",
+        "flameburst"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 15,
+        "defence": 16,
+        "special_attack": 7,
+        "special_defence": 23,
+        "speed": 17
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:iapapa_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "gender": "MALE",
+      "level": 34,
+      "nature": "cobblemon:sassy",
+      "ability": "ironbarbs",
+      "moveset": [
+        "gyroball",
+        "gigadrain",
+        "protect",
+        "ingrain"
+      ],
+      "ivs": {
+        "hp": 12,
+        "attack": 6,
+        "defence": 27,
+        "special_attack": 12,
+        "special_defence": 18,
+        "speed": 2
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:rocky_helmet",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:megavenusaur",
+      "gender": "FEMALE",
+      "level": 35,
+      "nature": "cobblemon:hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "earthpower",
+        "gigadrain",
+        "sludgebomb",
+        "leechseed"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 31,
+        "defence": 5,
+        "special_attack": 14,
+        "special_defence": 29,
+        "speed": 13
+      },
+      "evs": {
+        "hp": 128,
+        "defence": 96,
+        "special_defence": 96
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:heavy_duty_boots",
+      "aspects": [
+        "mega"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

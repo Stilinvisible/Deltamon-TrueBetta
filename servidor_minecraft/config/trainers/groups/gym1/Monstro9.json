@@ -1,0 +1,121 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:roserade",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "cobblemon:bashful",
+      "ability": "technician",
+      "moveset": [
+        "toxic",
+        "grassyterrain",
+        "gigadrain",
+        "doubleteam"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 12,
+        "defence": 3,
+        "special_attack": 31,
+        "special_defence": 23,
+        "speed": 28
+      },
+      "evs": {
+        "special_attack": 160,
+        "speed": 160
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "cobblemon:mild",
+      "ability": "shellarmor",
+      "moveset": [
+        "futuresight",
+        "chillingwater",
+        "dragonpulse",
+        "attract"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 7,
+        "defence": 31,
+        "special_attack": 31,
+        "special_defence": 26,
+        "speed": 13
+      },
+      "evs": {
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:grovyle",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "cobblemon:mild",
+      "ability": "overgrow",
+      "moveset": [
+        "acrobatics",
+        "bulletseed",
+        "drainpunch",
+        "crunch"
+      ],
+      "ivs": {
+        "hp": 5,
+        "attack": 16,
+        "defence": 22,
+        "special_attack": 6,
+        "special_defence": 18,
+        "speed": 15
+      },
+      "evs": {
+        "attack": 128,
+        "speed": 252
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:qwilfish",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:rash",
+      "ability": "intimidate",
+      "moveset": [
+        "aquajet",
+        "crunch",
+        "curse",
+        "dive"
+      ],
+      "ivs": {
+        "hp": 24,
+        "attack": 26,
+        "defence": 16,
+        "special_attack": 31,
+        "special_defence": 15,
+        "speed": 27
+      },
+      "evs": {
+        "attack": 128,
+        "speed": 128
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% unimplemented_items:bottle_cap_def",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

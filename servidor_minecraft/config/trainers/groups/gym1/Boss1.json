@@ -1,0 +1,110 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:cottonee",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:modest",
+      "ability": "prankster",
+      "moveset": [
+        "energyball",
+        "stunspore",
+        "dazzlinggleam",
+        "leechseed"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 7,
+        "defence": 10,
+        "special_attack": 29,
+        "special_defence": 27,
+        "speed": 29
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sawsbuck",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "cobblemon:hasty",
+      "ability": "sapsipper",
+      "moveset": [
+        "doublekick",
+        "leechseed",
+        "magicalleaf",
+        "takedown"
+      ],
+      "ivs": {
+        "hp": 4,
+        "attack": 17,
+        "defence": 30,
+        "special_attack": 21,
+        "special_defence": 1,
+        "speed": 22
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:silk_scarf",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:whimsicott",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "cobblemon:naughty",
+      "ability": "prankster",
+      "moveset": [
+        "gigadrain",
+        "moonblast",
+        "stunspore",
+        "lightscreen"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 7,
+        "defence": 12,
+        "special_attack": 23,
+        "special_defence": 1,
+        "speed": 31
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiinotic",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "cobblemon:careful",
+      "ability": "effectspore",
+      "moveset": [
+        "spore",
+        "strengthsap",
+        "moonlight",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 3,
+        "attack": 8,
+        "defence": 8,
+        "special_attack": 15,
+        "special_defence": 7,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:sitrus_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "tp %player% 576 38 325",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

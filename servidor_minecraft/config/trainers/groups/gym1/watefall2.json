@@ -1,0 +1,38 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:crabominable",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "icepunch",
+        "earthquake",
+        "liquidation"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defence": 31,
+        "special_attack": 4,
+        "special_defence": 31,
+        "speed": 31
+      },
+      "evs": {
+        "attack": 252,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:relic_coin_sack",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

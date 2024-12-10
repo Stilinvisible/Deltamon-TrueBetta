@@ -1,0 +1,12 @@
+{
+  "lootPoolOverrides": [
+    {
+      "f_135804_": "minecraft",
+      "f_135805_": "gameplay/fishing/treasure"
+    },
+    {
+      "f_135804_": "minecraft",
+      "f_135805_": "blocks/grass"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:metapod",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "ivs": {
+        "hp": 21,
+        "attack": 1,
+        "defence": 6,
+        "special_attack": 27,
+        "special_defence": 1,
+        "speed": 13
+      },
+      "evs": {
+        "hp": 252,
+        "defence": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:air_balloon",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krookodile",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:mild",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "dragonclaw",
+        "aquatail",
+        "darkestlariat"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 14,
+        "defence": 14,
+        "special_attack": 8,
+        "special_defence": 30,
+        "speed": 28
+      },
+      "evs": {
+        "attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:megagengar",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:jolly",
+      "ability": "shadowtag",
+      "moveset": [
+        "shadowball",
+        "destinybond",
+        "dazzlinggleam",
+        "nastyplot"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 15,
+        "defence": 30,
+        "special_attack": 29,
+        "special_defence": 26,
+        "speed": 18
+      },
+      "evs": {
+        "special_attack": 128,
+        "speed": 128
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "mega"
+      ]
+    },
+    {
+      "species": "cobblemon:grimmsnarl",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:impish",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "darkestlariat",
+        "fakeout"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 16,
+        "defence": 11,
+        "special_defence": 28,
+        "speed": 30
+      },
+      "evs": {
+        "hp": 252,
+        "attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:light_clay",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:walkingwake",
+      "gender": "GENDERLESS",
+      "level": 30,
+      "nature": "cobblemon:mild",
+      "ability": "protosynthesis",
+      "moveset": [
+        "sunnyday",
+        "dragonpulse",
+        "flamethrower"
+      ],
+      "ivs": {
+        "hp": 11,
+        "attack": 4,
+        "defence": 8,
+        "special_attack": 31,
+        "special_defence": 29,
+        "speed": 14
+      },
+      "evs": {
+        "special_attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:charcoal_stick",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marshadow",
+      "gender": "GENDERLESS",
+      "level": 30,
+      "nature": "cobblemon:lax",
+      "ability": "technician",
+      "moveset": [
+        "shadowsneak",
+        "closecombat",
+        "bulkup",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 3,
+        "defence": 20,
+        "special_attack": 20,
+        "speed": 25
+      },
+      "evs": {
+        "attack": 124
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:choice_band",
+      "aspects": []
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

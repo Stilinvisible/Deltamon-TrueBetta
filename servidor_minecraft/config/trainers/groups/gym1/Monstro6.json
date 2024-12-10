@@ -1,0 +1,85 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:floragato",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:impish",
+      "ability": "overgrow",
+      "moveset": [
+        "acrobatics",
+        "nastyplot",
+        "leafage",
+        "lowsweep"
+      ],
+      "ivs": {
+        "hp": 12,
+        "attack": 2,
+        "defence": 16,
+        "special_attack": 12,
+        "special_defence": 30,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floette",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "cobblemon:naughty",
+      "ability": "flowerveil",
+      "moveset": [
+        "vinewhip",
+        "drainingkiss",
+        "calmmind",
+        "pollenpuff"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 13,
+        "defence": 11,
+        "special_attack": 28,
+        "special_defence": 26,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glaceon",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "cobblemon:timid",
+      "ability": "icebody",
+      "moveset": [
+        "aquatail",
+        "icywind",
+        "attract",
+        "rest"
+      ],
+      "ivs": {
+        "hp": 9,
+        "attack": 6,
+        "defence": 28,
+        "special_attack": 14,
+        "special_defence": 4,
+        "speed": 6
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% unimplemented_items:bottle_cap_atk",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

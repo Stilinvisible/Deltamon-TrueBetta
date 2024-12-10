@@ -1,0 +1,87 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:rapidash",
+      "gender": "MALE",
+      "level": 26,
+      "nature": "cobblemon:jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "flareblitz",
+        "drillrun",
+        "wildcharge",
+        "poisonjab"
+      ],
+      "ivs": {
+        "hp": 4,
+        "attack": 8,
+        "defence": 28,
+        "special_attack": 23,
+        "special_defence": 9,
+        "speed": 26
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:camerupt",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "cobblemon:lonely",
+      "ability": "solidrock",
+      "moveset": [
+        "earthpower",
+        "defensecurl",
+        "lavaplume",
+        "rollout"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 15,
+        "defence": 28,
+        "special_attack": 6,
+        "special_defence": 1,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lilligant",
+      "gender": "FEMALE",
+      "level": 28,
+      "nature": "cobblemon:impish",
+      "ability": "leafguard",
+      "moveset": [
+        "leafblade",
+        "secretpower",
+        "trailblaze",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 14,
+        "attack": 7,
+        "defence": 25,
+        "special_attack": 30,
+        "special_defence": 15,
+        "speed": 17
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "hisuian"
+      ]
+    }
+  ],
+  "winCommand": "give %player% born_in_chaos_v1:fire_dust",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

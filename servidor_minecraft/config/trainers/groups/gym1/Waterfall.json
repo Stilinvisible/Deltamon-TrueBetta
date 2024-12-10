@@ -1,0 +1,91 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:leafeon",
+      "gender": "FEMALE",
+      "level": 25,
+      "nature": "cobblemon:naive",
+      "ability": "leafguard",
+      "moveset": [
+        "gigadrain",
+        "raindance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 5,
+        "defence": 20,
+        "special_attack": 2,
+        "special_defence": 13,
+        "speed": 31
+      },
+      "evs": {
+        "hp": 252
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "gender": "FEMALE",
+      "level": 22,
+      "nature": "cobblemon:lonely",
+      "ability": "regenerator",
+      "moveset": [
+        "signalbeam",
+        "futuresight",
+        "lightscreen",
+        "yawn"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 14,
+        "defence": 20,
+        "special_attack": 13,
+        "special_defence": 22,
+        "speed": 5
+      },
+      "evs": {
+        "hp": 128,
+        "special_defence": 128
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drizzile",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "cobblemon:relaxed",
+      "ability": "torrent",
+      "moveset": [
+        "weatherball",
+        "hydropump",
+        "raindance",
+        "uturn"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 30,
+        "defence": 8,
+        "special_attack": 31,
+        "special_defence": 4,
+        "speed": 1
+      },
+      "evs": {
+        "special_attack": 252,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:exp_candy_xl",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

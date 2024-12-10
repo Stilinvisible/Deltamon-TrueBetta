@@ -1,0 +1,65 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:megabeedrill",
+      "gender": "MALE",
+      "level": 40,
+      "nature": "cobblemon:lonely",
+      "ability": "adaptability",
+      "moveset": [
+        "knockoff",
+        "brickbreak",
+        "drillrun",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 24,
+        "attack": 31,
+        "defence": 15,
+        "special_attack": 29,
+        "special_defence": 16,
+        "speed": 29
+      },
+      "evs": {
+        "attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:miraidon",
+      "gender": "GENDERLESS",
+      "level": 40,
+      "nature": "cobblemon:careful",
+      "ability": "hadronengine",
+      "moveset": [
+        "thundershock",
+        "flashcannon",
+        "dragonbreath",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 11,
+        "defence": 12,
+        "special_attack": 31,
+        "special_defence": 19,
+        "speed": 21
+      },
+      "evs": {
+        "special_attack": 252,
+        "speed": 252
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "",
+  "canOnlyBeatOnce": false,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

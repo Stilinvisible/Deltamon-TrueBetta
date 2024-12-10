@@ -1,0 +1,60 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:snorunt",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:mild",
+      "ability": "moody",
+      "moveset": [
+        "powdersnow",
+        "headbutt",
+        "bite",
+        "chillingwater"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 23,
+        "defence": 6,
+        "special_attack": 30,
+        "special_defence": 12,
+        "speed": 22
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snover",
+      "gender": "MALE",
+      "level": 16,
+      "nature": "cobblemon:naive",
+      "ability": "snowwarning",
+      "moveset": [
+        "frostbreath",
+        "bodyslam",
+        "blizzard",
+        "gigadrain"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 21,
+        "defence": 25,
+        "special_attack": 1,
+        "special_defence": 5,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:relic_coin_sack",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

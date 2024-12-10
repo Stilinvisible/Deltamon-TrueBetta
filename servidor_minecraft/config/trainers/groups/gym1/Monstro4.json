@@ -1,0 +1,85 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:horsea",
+      "gender": "MALE",
+      "level": 14,
+      "nature": "cobblemon:relaxed",
+      "ability": "sniper",
+      "moveset": [
+        "watergun",
+        "aurorabeam",
+        "icywind",
+        "substitute"
+      ],
+      "ivs": {
+        "hp": 26,
+        "attack": 17,
+        "defence": 22,
+        "special_attack": 26,
+        "special_defence": 21,
+        "speed": 23
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellder",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "rockblast",
+        "iciclespear",
+        "iceshard",
+        "shellsmash"
+      ],
+      "ivs": {
+        "hp": 3,
+        "attack": 8,
+        "defence": 2,
+        "special_attack": 18,
+        "special_defence": 19,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:jynx",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "cobblemon:docile",
+      "ability": "oblivious",
+      "moveset": [
+        "sweetkiss",
+        "powdersnow",
+        "pound",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 30,
+        "defence": 30,
+        "special_attack": 20,
+        "special_defence": 14,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% unimplemented_items:bottle_cap_hp",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

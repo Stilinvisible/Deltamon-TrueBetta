@@ -1,0 +1,114 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "gender": "FEMALE",
+      "level": 16,
+      "nature": "cobblemon:hardy",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "magicalleaf",
+        "icywind",
+        "leechseed"
+      ],
+      "ivs": {
+        "attack": 30,
+        "defence": 8,
+        "special_attack": 12,
+        "special_defence": 1,
+        "speed": 4
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndstone",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "cobblemon:brave",
+      "ability": "fluffy",
+      "moveset": [
+        "bite",
+        "lastrespects",
+        "takedown",
+        "roar"
+      ],
+      "ivs": {
+        "hp": 25,
+        "attack": 16,
+        "defence": 5,
+        "special_attack": 9,
+        "special_defence": 31,
+        "speed": 11
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:spell_tag",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gogoat",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "cobblemon:hardy",
+      "ability": "sapsipper",
+      "moveset": [
+        "leechseed",
+        "bulkup",
+        "seedbomb",
+        "bulldoze"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 21,
+        "defence": 14,
+        "special_attack": 10,
+        "special_defence": 17,
+        "speed": 30
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:muscle_band",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:abomasnow",
+      "gender": "MALE",
+      "level": 20,
+      "nature": "cobblemon:jolly",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "trailblaze",
+        "icywind",
+        "auroraveil"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 7,
+        "defence": 6,
+        "special_attack": 17,
+        "special_defence": 23,
+        "speed": 30
+      },
+      "evs": {
+        "hp": 252,
+        "attack": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:sitrus_berry",
+      "aspects": [
+        "mega"
+      ]
+    }
+  ],
+  "winCommand": "give %player% cobblemon:ability_patch",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

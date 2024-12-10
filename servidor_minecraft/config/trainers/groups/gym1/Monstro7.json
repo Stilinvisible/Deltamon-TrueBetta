@@ -1,0 +1,142 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:piloswine",
+      "gender": "MALE",
+      "level": 17,
+      "nature": "cobblemon:bold",
+      "ability": "thickfat",
+      "moveset": [
+        "avalanche",
+        "earthquake",
+        "iceshard",
+        "reflect"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 16,
+        "defence": 10,
+        "special_attack": 28,
+        "special_defence": 31,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gogoat",
+      "gender": "MALE",
+      "level": 18,
+      "nature": "cobblemon:bashful",
+      "ability": "sapsipper",
+      "moveset": [
+        "brickbreak",
+        "bulldoze",
+        "grassyglide",
+        "grassyterrain"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 9,
+        "defence": 10,
+        "special_attack": 17,
+        "special_defence": 31,
+        "speed": 3
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flapple",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "cobblemon:calm",
+      "ability": "hustle",
+      "moveset": [
+        "energyball",
+        "uturn",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "ivs": {
+        "hp": 17,
+        "attack": 28,
+        "defence": 9,
+        "special_attack": 4,
+        "special_defence": 10,
+        "speed": 20
+      },
+      "evs": {
+        "attack": 252,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:maractus",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "cobblemon:lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "spikyshield",
+        "drainpunch",
+        "ingrain",
+        "seedbomb"
+      ],
+      "ivs": {
+        "hp": 21,
+        "attack": 26,
+        "defence": 15,
+        "special_attack": 27,
+        "special_defence": 17,
+        "speed": 22
+      },
+      "evs": {
+        "hp": 252,
+        "attack": 252,
+        "defence": 6
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:sitrus_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lilligant",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "cobblemon:hardy",
+      "ability": "chlorophyll",
+      "moveset": [
+        "alluringvoice",
+        "gigadrain",
+        "sunnyday",
+        "stunspore"
+      ],
+      "ivs": {
+        "hp": 2,
+        "attack": 29,
+        "defence": 8,
+        "special_attack": 5,
+        "special_defence": 7,
+        "speed": 13
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% unimplemented_items:bottle_cap_gold",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

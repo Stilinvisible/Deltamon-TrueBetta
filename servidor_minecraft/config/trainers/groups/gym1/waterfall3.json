@@ -1,0 +1,122 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:cetitan",
+      "gender": "MALE",
+      "level": 27,
+      "nature": "cobblemon:docile",
+      "ability": "slushrush",
+      "moveset": [
+        "stompingtantrum",
+        "playrough",
+        "gigaimpact",
+        "icespinner"
+      ],
+      "ivs": {
+        "hp": 30,
+        "attack": 31,
+        "defence": 8,
+        "special_attack": 29,
+        "special_defence": 24,
+        "speed": 8
+      },
+      "evs": {
+        "attack": 96,
+        "speed": 128
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mabosstiff",
+      "gender": "FEMALE",
+      "level": 21,
+      "nature": "cobblemon:relaxed",
+      "ability": "guarddog",
+      "moveset": [
+        "psychicfangs",
+        "lashout",
+        "dig",
+        "doubleedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 11,
+        "defence": 16,
+        "special_attack": 6,
+        "special_defence": 20,
+        "speed": 4
+      },
+      "evs": {
+        "hp": 124,
+        "attack": 92
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dracovish",
+      "gender": "GENDERLESS",
+      "level": 27,
+      "nature": "cobblemon:modest",
+      "ability": "strongjaw",
+      "moveset": [
+        "protect",
+        "dragonrush",
+        "rockslide",
+        "icefang"
+      ],
+      "ivs": {
+        "hp": 25,
+        "attack": 31,
+        "defence": 1,
+        "special_attack": 18,
+        "speed": 17
+      },
+      "evs": {
+        "attack": 124,
+        "defence": 128,
+        "special_defence": 128
+      },
+      "shiny": true,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meowscarada",
+      "gender": "MALE",
+      "level": 1,
+      "nature": "cobblemon:hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "flowertrick",
+        "doubleteam",
+        "protect",
+        "brickbreak"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 24,
+        "defence": 20,
+        "special_attack": 17,
+        "special_defence": 5,
+        "speed": 6
+      },
+      "evs": {
+        "attack": 128,
+        "speed": 160
+      },
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% born_in_chaos_v1:infernal_evil_pumpkin",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

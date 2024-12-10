@@ -1,0 +1,46 @@
+{
+  "uuid": "85e99028-9286-31d8-8d24-30119042774f",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "81563bf3-6afa-4a9b-9498-e998e2fec3d0",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 23,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 23,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "dark": 2,
+      "steel": 1,
+      "poison": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:magnemite": 1,
+      "cobblemon:zigzagoon": 3,
+      "cobblemon:mareep": 2,
+      "cobblemon:pawniard": 1,
+      "cobblemon:pachirisu": 1,
+      "cobblemon:rowlet": 1,
+      "cobblemon:growlithe": 1,
+      "cobblemon:bunnelby": 2,
+      "cobblemon:koffing": 1,
+      "cobblemon:cottonee": 1,
+      "cobblemon:drifloon": 1,
+      "cobblemon:caterpie": 1,
+      "cobblemon:diggersby": 1,
+      "cobblemon:pignite": 1,
+      "cobblemon:flabebe": 1,
+      "cobblemon:wigglytuff": 1,
+      "cobblemon:haunter": 1
+    },
+    "aspectsCollected": {}
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:ferroseed",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "cobblemon:rash",
+      "ability": "ironbarbs",
+      "moveset": [
+        "metalclaw",
+        "gigadrain",
+        "leechseed",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 24,
+        "defence": 31,
+        "special_defence": 9,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:focus_sash",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floragato",
+      "gender": "FEMALE",
+      "level": 31,
+      "nature": "cobblemon:lax",
+      "ability": "protean",
+      "moveset": [
+        "uturn",
+        "seedbomb",
+        "thunderpunch",
+        "lowkick"
+      ],
+      "ivs": {
+        "hp": 29,
+        "attack": 4,
+        "defence": 18,
+        "special_attack": 10,
+        "special_defence": 13,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:muscle_band",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "gender": "GENDERLESS",
+      "level": 32,
+      "nature": "cobblemon:quirky",
+      "ability": "sturdy",
+      "moveset": [
+        "electroball",
+        "thunderwave",
+        "flashcannon",
+        "explosion"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 11,
+        "defence": 5,
+        "special_attack": 1,
+        "special_defence": 25,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:salac_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lurantis",
+      "gender": "MALE",
+      "level": 32,
+      "nature": "cobblemon:modest",
+      "ability": "leafguard",
+      "moveset": [
+        "leafblade",
+        "slash",
+        "nightslash",
+        "trailblaze"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 19,
+        "defence": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "gender": "MALE",
+      "level": 33,
+      "nature": "cobblemon:naughty",
+      "ability": "ironbarbs",
+      "moveset": [
+        "ingrain",
+        "flashcannon",
+        "gigadrain",
+        "powerwhip"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 9,
+        "special_attack": 11,
+        "special_defence": 10,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:occa_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:assault_vest",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

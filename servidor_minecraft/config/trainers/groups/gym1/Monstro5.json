@@ -1,0 +1,60 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:chikorita",
+      "gender": "FEMALE",
+      "level": 15,
+      "nature": "cobblemon:naive",
+      "ability": "leafguard",
+      "moveset": [
+        "bulletseed",
+        "echoedvoice",
+        "ingrain",
+        "encore"
+      ],
+      "ivs": {
+        "hp": 19,
+        "attack": 14,
+        "defence": 27,
+        "special_attack": 15,
+        "special_defence": 12,
+        "speed": 20
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gloom",
+      "gender": "MALE",
+      "level": 15,
+      "nature": "cobblemon:brave",
+      "ability": "stench",
+      "moveset": [
+        "petaldance",
+        "growth",
+        "sludgebomb",
+        "energyball"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 2,
+        "defence": 12,
+        "special_attack": 17,
+        "special_defence": 19,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% unimplemented_items:bottle_cap_spd",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

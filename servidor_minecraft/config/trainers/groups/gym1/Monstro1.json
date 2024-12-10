@@ -1,0 +1,59 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:lotad",
+      "gender": "FEMALE",
+      "level": 9,
+      "nature": "cobblemon:gentle",
+      "ability": "swiftswim",
+      "moveset": [
+        "counter",
+        "astonish",
+        "growl",
+        "grassknot"
+      ],
+      "ivs": {
+        "hp": 12,
+        "attack": 17,
+        "defence": 3,
+        "special_attack": 13,
+        "special_defence": 24,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "gender": "MALE",
+      "level": 9,
+      "nature": "cobblemon:quiet",
+      "ability": "chlorophyll",
+      "moveset": [
+        "vinewhip",
+        "bulletseed",
+        "acid",
+        "strengthsap"
+      ],
+      "ivs": {
+        "hp": 15,
+        "attack": 24,
+        "defence": 23,
+        "special_defence": 2,
+        "speed": 2
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% minecraft:ender_pearl",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

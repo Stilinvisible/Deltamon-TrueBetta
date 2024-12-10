@@ -1,0 +1,91 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:forretress",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:rash",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "toxicspikes",
+        "explosion",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 25,
+        "defence": 24,
+        "special_attack": 26,
+        "special_defence": 10,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "cobblemon:heavy_duty_boots",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cacturne",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:adamant",
+      "ability": "waterabsorb",
+      "moveset": [
+        "ingrain",
+        "swordsdance",
+        "drainpunch",
+        "needlearm"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 7,
+        "defence": 14,
+        "special_attack": 28,
+        "special_defence": 2,
+        "speed": 16
+      },
+      "evs": {
+        "hp": 252,
+        "defence": 96,
+        "special_defence": 96
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:oran_berry",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cradily",
+      "gender": "FEMALE",
+      "level": 32,
+      "nature": "cobblemon:lonely",
+      "ability": "suctioncups",
+      "moveset": [
+        "earthquake",
+        "seedbomb",
+        "protect",
+        "amnesia"
+      ],
+      "ivs": {
+        "hp": 26,
+        "attack": 4,
+        "defence": 24,
+        "special_attack": 24,
+        "special_defence": 2,
+        "speed": 18
+      },
+      "evs": {
+        "hp": 96
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% cobblemon:adamant_mint",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

@@ -1,0 +1,121 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:ludicolo",
+      "gender": "FEMALE",
+      "level": 29,
+      "nature": "cobblemon:lax",
+      "ability": "swiftswim",
+      "moveset": [
+        "icywind",
+        "mudshot",
+        "gigadrain",
+        "bubblebeam"
+      ],
+      "ivs": {
+        "attack": 26,
+        "defence": 5,
+        "special_attack": 31,
+        "special_defence": 26,
+        "speed": 21
+      },
+      "evs": {
+        "hp": 252,
+        "special_attack": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lombre",
+      "gender": "FEMALE",
+      "level": 30,
+      "nature": "cobblemon:calm",
+      "ability": "raindish",
+      "moveset": [
+        "knockoff",
+        "toxic",
+        "raindance"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 13,
+        "defence": 1,
+        "special_attack": 10,
+        "special_defence": 31,
+        "speed": 4
+      },
+      "evs": {
+        "hp": 252,
+        "special_defence": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:damp_rock",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ironleaves",
+      "gender": "GENDERLESS",
+      "level": 28,
+      "nature": "cobblemon:timid",
+      "ability": "quarkdrive",
+      "moveset": [
+        "xscissor",
+        "swordsdance",
+        "smartstrike",
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 31,
+        "defence": 1,
+        "special_attack": 12,
+        "special_defence": 22,
+        "speed": 3
+      },
+      "evs": {
+        "attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:life_orb",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:basculin",
+      "gender": "MALE",
+      "level": 29,
+      "nature": "cobblemon:adamant",
+      "ability": "adaptability",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "liquidation",
+        "headbutt"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 31,
+        "defence": 29,
+        "special_attack": 29,
+        "special_defence": 14,
+        "speed": 31
+      },
+      "evs": {
+        "attack": 252,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": [
+        "whitestriped"
+      ]
+    }
+  ],
+  "winCommand": "give %player% twilightforest:maze_map_focus",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

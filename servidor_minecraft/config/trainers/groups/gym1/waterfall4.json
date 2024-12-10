@@ -1,0 +1,116 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:poliwrath",
+      "gender": "MALE",
+      "level": 30,
+      "nature": "cobblemon:docile",
+      "ability": "damp",
+      "moveset": [
+        "closecombat"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 31,
+        "defence": 13,
+        "special_attack": 10,
+        "special_defence": 5,
+        "speed": 31
+      },
+      "evs": {
+        "attack": 252,
+        "speed": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:choice_band",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tangela",
+      "gender": "MALE",
+      "level": 28,
+      "nature": "cobblemon:jolly",
+      "ability": "regenerator",
+      "moveset": [
+        "megadrain",
+        "stunspore",
+        "amnesia",
+        "doubleteam"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 31,
+        "defence": 15,
+        "special_attack": 2,
+        "special_defence": 31,
+        "speed": 17
+      },
+      "evs": {
+        "hp": 252,
+        "special_defence": 252
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:leftovers",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "gender": "FEMALE",
+      "level": 1,
+      "nature": "cobblemon:timid",
+      "ability": "liquidooze",
+      "moveset": [
+        "gigadrain",
+        "barrier",
+        "scald",
+        "confuseray"
+      ],
+      "ivs": {
+        "hp": 11,
+        "attack": 23,
+        "defence": 16,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 27
+      },
+      "evs": {
+        "special_attack": 252
+      },
+      "shiny": true,
+      "heldItem": "cobblemon:black_sludge",
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "gender": "FEMALE",
+      "level": 26,
+      "nature": "cobblemon:lax",
+      "ability": "marvelscale",
+      "moveset": [
+        "blizzard",
+        "incinerate",
+        "dragonbreath"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 5,
+        "defence": 3,
+        "special_attack": 31,
+        "special_defence": 31,
+        "speed": 30
+      },
+      "evs": {
+        "special_attack": 128
+      },
+      "shiny": false,
+      "heldItem": "cobblemon:assault_vest",
+      "aspects": []
+    }
+  ],
+  "winCommand": "give %player% occultism:iesnium_block",
+  "lossCommand": "",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "1052b25e-eb28-32f5-9ffc-2227ccc32a0a",
+    "name": "Reflexont",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e8129150-d2a9-3c82-bee7-a05f5336684d",
+    "name": "Steelinvisible",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
