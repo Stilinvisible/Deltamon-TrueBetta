@@ -452,6 +452,7 @@
     "criteria": {
       "quick_ball": "2024-01-04 18:14:49 +0000",
       "great_ball": "2024-02-22 03:31:38 +0000",
+      "moon_ball": "2024-12-10 00:36:34 +0000",
       "dive_ball": "2024-01-07 03:16:34 +0000",
       "ancient_great_ball": "2024-06-23 02:24:18 +0000",
       "heavy_ball": "2024-01-07 03:16:13 +0000",
@@ -473,6 +474,7 @@
   "cobblemon:craft_apricorn_balls": {
     "criteria": {
       "friend_ball": "2024-01-04 18:15:18 +0000",
+      "moon_ball": "2024-12-10 00:36:34 +0000",
       "heavy_ball": "2024-01-07 03:16:13 +0000",
       "fast_ball": "2024-01-07 03:19:52 +0000"
     },
@@ -12481,6 +12483,12 @@
   "immersive_armors:recipes/misc/divine": {
     "criteria": {
       "has_item": "2024-07-22 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-10 00:40:03 +0000"
     },
     "done": true
   },
