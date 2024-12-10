@@ -1690,3 +1690,65 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 [10Dec2024 01:59:19.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 1 [Enchanted Book] to Steelinvisible]
 [10Dec2024 01:59:23.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 1 [Enchanted Book] to Steelinvisible]
 [10Dec2024 01:59:28.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Gave 64 [Book] to Steelinvisible]
+[10Dec2024 02:00:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Steelinvisible has made the advancement [Consult the Fossil]
+[10Dec2024 02:02:40.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[10Dec2024 02:02:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[10Dec2024 02:02:50.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible lost connection: Disconnected
+[10Dec2024 02:02:50.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Steelinvisible left the game
+[10Dec2024 02:02:57.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 02:02:57.244] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Waterfall.json
+[10Dec2024 02:02:57.245] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Dummy1.json
+[10Dec2024 02:02:57.246] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Chara.json
+[10Dec2024 02:02:57.246] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss3.json
+[10Dec2024 02:02:57.247] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro11.json
+[10Dec2024 02:02:57.248] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss4.json
+[10Dec2024 02:02:57.248] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss1.json
+[10Dec2024 02:02:57.248] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss2.json
+[10Dec2024 02:02:57.249] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro10.json
+[10Dec2024 02:02:57.249] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallGaster.json
+[10Dec2024 02:02:57.250] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall4.json
+[10Dec2024 02:02:57.250] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall5.json
+[10Dec2024 02:02:57.251] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Entrenador.json
+[10Dec2024 02:02:57.251] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro9.json
+[10Dec2024 02:02:57.252] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro6.json
+[10Dec2024 02:02:57.252] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro7.json
+[10Dec2024 02:02:57.253] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall3.json
+[10Dec2024 02:02:57.254] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro4.json
+[10Dec2024 02:02:57.254] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/watefall2.json
+[10Dec2024 02:02:57.255] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro5.json
+[10Dec2024 02:02:57.255] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro2.json
+[10Dec2024 02:02:57.255] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro3.json
+[10Dec2024 02:02:57.256] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro1.json
+[10Dec2024 02:02:57.256] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/grillbys.json
+[10Dec2024 02:02:57.257] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands5.json
+[10Dec2024 02:02:57.257] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands6.json
+[10Dec2024 02:02:57.258] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands3.json
+[10Dec2024 02:02:57.258] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands4.json
+[10Dec2024 02:02:57.258] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/FinalBoss.json
+[10Dec2024 02:02:57.259] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Grovestreet.json
+[10Dec2024 02:02:57.259] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Core1.json
+[10Dec2024 02:02:57.260] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Core2.json
+[10Dec2024 02:02:57.260] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallRoku.json
+[10Dec2024 02:02:57.261] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/BossWaterfall.json
+[10Dec2024 02:02:57.261] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallClover.json
+[10Dec2024 02:02:57.262] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands1.json
+[10Dec2024 02:02:57.262] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands2.json
+[10Dec2024 02:02:57.262] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/NewHome1.json
+[10Dec2024 02:02:57.263] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[10Dec2024 02:02:57.264] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[10Dec2024 02:02:57.264] [Server thread/INFO] [MapFrontiers/]: ServerStoppingEvent done
+[10Dec2024 02:02:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 02:02:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 02:02:57.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 02:02:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:overworld
+[10Dec2024 02:02:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/lostcities:lostcity
+[10Dec2024 02:02:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:the_end
+[10Dec2024 02:02:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/twilightforest:twilight_forest
+[10Dec2024 02:02:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:the_nether
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 02:02:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Dec2024 02:02:57.503] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

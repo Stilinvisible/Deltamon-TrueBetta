@@ -12499,5 +12499,11 @@
     },
     "done": true
   },
+  "cobblemon:obtain_fossil": {
+    "criteria": {
+      "check_inv": "2024-12-10 02:00:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
