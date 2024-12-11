@@ -11442,3 +11442,246 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 05:32:18.631] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [11Dec2024 05:32:31.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csw67ouuu2ua]: started parsing
 [11Dec2024 05:32:31.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1csw67ouuu2ua]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:32:40.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ln0pze5uhaul]: started parsing
+[11Dec2024 05:32:40.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ln0pze5uhaul]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:32:48.680] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:32:48.680] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:32:48.681] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:32:54.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fcv6ns1kjeru]: started parsing
+[11Dec2024 05:32:54.309] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fcv6ns1kjeru]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:33:00.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0urgzyzl2yv]: started parsing
+[11Dec2024 05:33:00.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h0urgzyzl2yv]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:33:05.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v0hu68ivvo9u]: started parsing
+[11Dec2024 05:33:05.168] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v0hu68ivvo9u]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:33:18.730] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:33:18.730] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:33:18.730] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:33:48.780] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:33:48.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:33:48.781] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:33:54.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imjvd40cdbo6]: started parsing
+[11Dec2024 05:33:54.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imjvd40cdbo6]: Consuming argument ``
+[11Dec2024 05:33:54.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o8sccjcndiiw]: started parsing
+[11Dec2024 05:33:54.278] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o8sccjcndiiw]: Consuming argument `s`
+[11Dec2024 05:33:54.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [070lbw9b2k8ly]: started parsing
+[11Dec2024 05:33:54.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [070lbw9b2k8ly]: Consuming argument `st`
+[11Dec2024 05:33:54.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vxvz3k6tnjr9]: started parsing
+[11Dec2024 05:33:54.642] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vxvz3k6tnjr9]: Consuming argument `str`
+[11Dec2024 05:33:54.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p2kr6zko0fq5]: started parsing
+[11Dec2024 05:33:54.708] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p2kr6zko0fq5]: Consuming argument `stri`
+[11Dec2024 05:33:55.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u00e5j45fwgn]: started parsing
+[11Dec2024 05:33:55.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u00e5j45fwgn]: Consuming argument `strip`
+[11Dec2024 05:33:55.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xtw931zen4et]: started parsing
+[11Dec2024 05:33:55.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xtw931zen4et]: Consuming argument `stripp`
+[11Dec2024 05:33:55.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdo94893rjhw]: started parsing
+[11Dec2024 05:33:55.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jdo94893rjhw]: Consuming argument `strippe`
+[11Dec2024 05:33:56.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0um5n7uhr1juo]: started parsing
+[11Dec2024 05:33:56.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0um5n7uhr1juo]: Consuming argument `stripped`
+[11Dec2024 05:33:56.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs3sf9x8yact]: started parsing
+[11Dec2024 05:33:56.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hs3sf9x8yact]: Consuming argument `stripped_`
+[11Dec2024 05:33:56.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seejxrv2snfi]: started parsing
+[11Dec2024 05:33:56.992] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seejxrv2snfi]: Consuming argument `stripped_o`
+[11Dec2024 05:33:57.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0enylou1s3n4a]: started parsing
+[11Dec2024 05:33:57.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0enylou1s3n4a]: Consuming argument `stripped_oa`
+[11Dec2024 05:33:57.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x7nt3r427e9k]: started parsing
+[11Dec2024 05:33:57.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x7nt3r427e9k]: Consuming argument `stripped_oak`
+[11Dec2024 05:33:58.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4uz630cnlqb]: started parsing
+[11Dec2024 05:33:58.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4uz630cnlqb]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:33:58.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4uz630cnlqb]: Consuming argument ``
+[11Dec2024 05:34:00.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwlyqcnf65u3]: started parsing
+[11Dec2024 05:34:00.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwlyqcnf65u3]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:00.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwlyqcnf65u3]: Consuming argument `m`
+[11Dec2024 05:34:00.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r4js3u7xvw5m]: started parsing
+[11Dec2024 05:34:00.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r4js3u7xvw5m]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:00.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r4js3u7xvw5m]: Consuming argument `ma`
+[11Dec2024 05:34:01.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egploqeipe7c]: started parsing
+[11Dec2024 05:34:01.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egploqeipe7c]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.039] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1egploqeipe7c]: Consuming argument `man`
+[11Dec2024 05:34:01.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnhytexc9jt7]: started parsing
+[11Dec2024 05:34:01.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnhytexc9jt7]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rnhytexc9jt7]: Consuming argument `mang`
+[11Dec2024 05:34:01.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruciydsegp0b]: started parsing
+[11Dec2024 05:34:01.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruciydsegp0b]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.218] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruciydsegp0b]: Consuming argument `mangr`
+[11Dec2024 05:34:01.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q63fnb2f6ez3]: started parsing
+[11Dec2024 05:34:01.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q63fnb2f6ez3]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q63fnb2f6ez3]: Consuming argument `mangro`
+[11Dec2024 05:34:01.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixgv09fq0t7d]: started parsing
+[11Dec2024 05:34:01.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixgv09fq0t7d]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixgv09fq0t7d]: Consuming argument `mangrov`
+[11Dec2024 05:34:01.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cj0qfn2ebguh]: started parsing
+[11Dec2024 05:34:01.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cj0qfn2ebguh]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:01.610] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cj0qfn2ebguh]: Consuming argument `mangrove`
+[11Dec2024 05:34:02.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xtqk8l8hnnvs]: started parsing
+[11Dec2024 05:34:02.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xtqk8l8hnnvs]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:02.095] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xtqk8l8hnnvs]: Consuming argument `mangrove_`
+[11Dec2024 05:34:02.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj9do9sb68ng]: started parsing
+[11Dec2024 05:34:02.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj9do9sb68ng]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:02.216] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pj9do9sb68ng]: Consuming argument `mangrove_r`
+[11Dec2024 05:34:03.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ehuc0k0jejk]: started parsing
+[11Dec2024 05:34:03.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ehuc0k0jejk]: Consuming argument `stripped_oak_wood`
+[11Dec2024 05:34:03.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ehuc0k0jejk]: Consuming argument `mangrove_roots`
+[11Dec2024 05:34:03.189] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ehuc0k0jejk]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:34:18.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:34:18.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:34:18.831] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:34:48.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:34:48.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:34:48.881] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:35:04.447] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[11Dec2024 05:35:18.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:35:18.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:35:18.932] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:35:48.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:35:48.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:35:48.981] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:36:19.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:36:19.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:36:19.032] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:36:49.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:36:49.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:36:49.081] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:37:05.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 05:37:05.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 05:37:19.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:37:19.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:37:19.131] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:37:49.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:37:49.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:37:49.182] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:38:19.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:38:19.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:38:19.232] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:38:49.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:38:49.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:38:49.282] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:39:19.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:39:19.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:39:19.331] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:39:49.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:39:49.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:39:49.381] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:40:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> chinche 200
+[11Dec2024 05:40:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> me corrio del vc
+[11Dec2024 05:40:15.969] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[11Dec2024 05:40:16.322] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[11Dec2024 05:40:16.327] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[11Dec2024 05:40:16.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_1
+[11Dec2024 05:40:16.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_2
+[11Dec2024 05:40:17.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_3
+[11Dec2024 05:40:17.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_2
+[11Dec2024 05:40:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> xd
+[11Dec2024 05:40:19.430] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:40:19.430] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:40:19.430] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:40:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> busca paro
+[11Dec2024 05:40:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 05:40:28.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[11Dec2024 05:40:29.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_2
+[11Dec2024 05:40:33.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_4
+[11Dec2024 05:40:34.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_circle_3
+[11Dec2024 05:40:35.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_2
+[11Dec2024 05:40:41.585] [Worker-Main-31/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 05:40:41.601] [Worker-Main-31/DEBUG] [mixin/]: Mixing StructurePoolGeneratorMixin from mixins.cobblemon-common.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 05:40:41.783] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_1
+[11Dec2024 05:40:41.852] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pyramid_2
+[11Dec2024 05:40:41.906] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_villager_house_1
+[11Dec2024 05:40:41.908] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:villager_house_1
+[11Dec2024 05:40:42.054] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_1
+[11Dec2024 05:40:42.141] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[11Dec2024 05:40:42.235] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_1
+[11Dec2024 05:40:42.296] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cobblestone_rock_3
+[11Dec2024 05:40:42.408] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_3
+[11Dec2024 05:40:42.452] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_2
+[11Dec2024 05:40:42.514] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sandstone_rock_1
+[11Dec2024 05:40:42.536] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_4
+[11Dec2024 05:40:42.653] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[11Dec2024 05:40:43.068] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[11Dec2024 05:40:43.068] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[11Dec2024 05:40:43.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spider_nest_3
+[11Dec2024 05:40:43.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:oak_log_2
+[11Dec2024 05:40:43.742] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_1
+[11Dec2024 05:40:43.743] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_4
+[11Dec2024 05:40:43.743] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_3
+[11Dec2024 05:40:43.744] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_3
+[11Dec2024 05:40:43.750] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_wall_ruin_2
+[11Dec2024 05:40:43.751] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[11Dec2024 05:40:43.755] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_1
+[11Dec2024 05:40:43.758] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_1
+[11Dec2024 05:40:43.763] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:end_wall_ruin_2
+[11Dec2024 05:40:43.984] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[11Dec2024 05:40:43.995] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[11Dec2024 05:40:44.763] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_1
+[11Dec2024 05:40:44.775] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:dead_tree_2
+[11Dec2024 05:40:44.783] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_2
+[11Dec2024 05:40:44.790] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_1
+[11Dec2024 05:40:44.796] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_4
+[11Dec2024 05:40:44.803] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:cactus_2
+[11Dec2024 05:40:44.833] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_1
+[11Dec2024 05:40:44.840] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:palm_3
+[11Dec2024 05:40:45.241] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wither_skull
+[11Dec2024 05:40:45.245] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:skeleton_skull
+[11Dec2024 05:40:46.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[11Dec2024 05:40:46.904] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_1
+[11Dec2024 05:40:46.908] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:silverfish_cluster_2
+[11Dec2024 05:40:47.987] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_2
+[11Dec2024 05:40:47.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:nether_dungeon_1
+[11Dec2024 05:40:47.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_2
+[11Dec2024 05:40:48.631] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:sewage_system_1
+[11Dec2024 05:40:49.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[11Dec2024 05:40:49.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_2
+[11Dec2024 05:40:49.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:pillar_ruin_3
+[11Dec2024 05:40:49.480] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:40:49.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:40:49.481] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:40:50.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_oak_tree_2
+[11Dec2024 05:40:50.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:tomb_3
+[11Dec2024 05:40:52.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[11Dec2024 05:40:52.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_bottom
+[11Dec2024 05:40:54.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:fallen_dead_tree_2
+[11Dec2024 05:41:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 05:41:19.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:41:19.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:41:19.531] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:41:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Gave 1 [Command Block] to Reflexont]
+[11Dec2024 05:41:35.661] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13gi5f25y3y3q]: started parsing
+[11Dec2024 05:41:35.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13gi5f25y3y3q]: Consuming argument ``
+[11Dec2024 05:41:35.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2brbjnsxd0x]: started parsing
+[11Dec2024 05:41:35.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2brbjnsxd0x]: Consuming argument `0`
+[11Dec2024 05:41:35.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1m2brbjnsxd0x]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:41:36.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lkur3kds4dh2]: started parsing
+[11Dec2024 05:41:36.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lkur3kds4dh2]: Consuming argument `0`
+[11Dec2024 05:41:36.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lkur3kds4dh2]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:41:49.580] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:41:49.580] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:41:49.581] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:42:00.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qh92rncac2lk]: started parsing
+[11Dec2024 05:42:00.896] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qh92rncac2lk]: Consuming argument ``
+[11Dec2024 05:42:04.792] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gycspl2963y]: started parsing
+[11Dec2024 05:42:04.793] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00gycspl2963y]: Consuming argument `l`
+[11Dec2024 05:42:04.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ccgm6cygh0a]: started parsing
+[11Dec2024 05:42:04.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07ccgm6cygh0a]: Consuming argument `la`
+[11Dec2024 05:42:04.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15poxf98oz7aj]: started parsing
+[11Dec2024 05:42:04.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15poxf98oz7aj]: Consuming argument `lap`
+[11Dec2024 05:42:05.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8xszyo2ucaf]: started parsing
+[11Dec2024 05:42:05.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h8xszyo2ucaf]: Consuming argument `lapi`
+[11Dec2024 05:42:05.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jcmy4qr3tjq0]: started parsing
+[11Dec2024 05:42:05.294] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jcmy4qr3tjq0]: Consuming argument `lapis`
+[11Dec2024 05:42:05.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 05:42:05.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 05:42:06.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luebwq2sd3rb]: started parsing
+[11Dec2024 05:42:06.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luebwq2sd3rb]: Consuming argument `lapis_block`
+[11Dec2024 05:42:06.927] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0luebwq2sd3rb]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:42:13.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible moved too quickly! -0.40491177972648984,0.0,-10.733620165920684
+[11Dec2024 05:42:19.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 05:42:19.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 05:42:19.632] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 05:42:34.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1ujsb25fbde]: started parsing
+[11Dec2024 05:42:34.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1ujsb25fbde]: Consuming argument `lapis_block`
+[11Dec2024 05:42:34.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w1ujsb25fbde]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:42:34.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efsxqr4i80le]: started parsing
+[11Dec2024 05:42:34.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efsxqr4i80le]: Consuming argument `lapis_block`
+[11Dec2024 05:42:34.844] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efsxqr4i80le]: Finished looking at arguments. Finalizing command.
+[11Dec2024 05:42:35.269] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pt28475k4z2n]: started parsing
+[11Dec2024 05:42:35.269] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pt28475k4z2n]: Consuming argument `lapis_block`
+[11Dec2024 05:42:35.269] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pt28475k4z2n]: Finished looking at arguments. Finalizing command.

@@ -1503,3 +1503,11 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 05:08:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
 [11Dec2024 05:08:58.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
 [11Dec2024 05:09:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 05:40:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> chinche 200
+[11Dec2024 05:40:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> me corrio del vc
+[11Dec2024 05:40:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> xd
+[11Dec2024 05:40:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> busca paro
+[11Dec2024 05:40:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 05:41:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 05:41:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Gave 1 [Command Block] to Reflexont]
+[11Dec2024 05:42:13.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible moved too quickly! -0.40491177972648984,0.0,-10.733620165920684
