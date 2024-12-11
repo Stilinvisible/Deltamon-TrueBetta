@@ -11885,6 +11885,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-11 06:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-11 06:14:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
     "criteria": {
       "has_block": "2024-12-11 04:39:26 +0000"
@@ -11903,6 +11915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-11 06:14:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/compressed_blocks/reversed/steeleaf_block_ingot": {
     "criteria": {
       "has_item": "2024-12-11 05:22:56 +0000"
@@ -11912,6 +11930,12 @@
   "securitycraft:recipes/building_blocks/reinforced_stone_slab_from_reinforced_smooth_stone_stonecutting": {
     "criteria": {
       "has_reinforced_smooth_stone": "2024-12-11 04:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2024-12-11 06:14:11 +0000"
     },
     "done": true
   },
