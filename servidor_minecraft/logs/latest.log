@@ -1406,3 +1406,13 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 03:26:54.142] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Tag for TagKey[minecraft:worldgen/biome / cobblemon:is_abyss] does not have any biomes!
 [11Dec2024 03:26:54.143] [Server thread/ERROR] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Outbreak for cobblemonoutbreaks:haunter_outbreak might not have any biomes assigned!
 [11Dec2024 03:26:54.143] [Server thread/INFO] [com.scouter.cobbleoutbreaks.data.OutbreaksJsonDataManager/]: Registered 56 biomes with pokemon!
+[11Dec2024 03:41:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 03:41:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 03:45:58.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reflexont[/127.106.95.147:46271] logged in with entity id 4327 at (2502.359995184649, 38.0, 154.69999998807907)
+[11Dec2024 03:45:58.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reflexont joined the game
+[11Dec2024 03:45:58.287] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (1052b25e-eb28-32f5-9ffc-2227ccc32a0a)
+[11Dec2024 03:45:58.288] [Server thread/INFO] [Jade/]: Syncing config to Reflexont (1052b25e-eb28-32f5-9ffc-2227ccc32a0a)
+[11Dec2024 03:46:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 03:49:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 03:49:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 03:49:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Teleported Reflexont to Steelinvisible]
