@@ -12355,3 +12355,508 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 06:02:54.294] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag break-blocks' by 'Steelinvisible'.
 [11Dec2024 06:02:54.295] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
 [11Dec2024 06:02:56.593] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty info' by 'Steelinvisible'.
+[11Dec2024 06:03:07.192] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag enderman-griefing' by 'Steelinvisible'.
+[11Dec2024 06:03:07.192] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:03:21.447] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag explosions-blocks' by 'Steelinvisible'.
+[11Dec2024 06:03:21.448] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:03:21.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:03:21.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:03:21.731] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:03:30.074] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag explosions-entities' by 'Steelinvisible'.
+[11Dec2024 06:03:30.075] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:03:46.227] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty info' by 'Steelinvisible'.
+[11Dec2024 06:03:48.322] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty list flag' by 'Steelinvisible'.
+[11Dec2024 06:03:51.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:03:51.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:03:51.781] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:03:53.640] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty remove flag explosions-entities' by 'Steelinvisible'.
+[11Dec2024 06:03:53.640] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:04:06.647] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag level-freeze' by 'Steelinvisible'.
+[11Dec2024 06:04:06.647] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:04:19.257] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag mob-griefing' by 'Steelinvisible'.
+[11Dec2024 06:04:19.257] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:04:21.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:04:21.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:04:21.831] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:04:26.643] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag place-blocks' by 'Steelinvisible'.
+[11Dec2024 06:04:26.643] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:04:34.060] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag scoop-fluids' by 'Steelinvisible'.
+[11Dec2024 06:04:34.060] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:04:51.880] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:04:51.880] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:04:51.880] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:04:56.426] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag place-fluids' by 'Steelinvisible'.
+[11Dec2024 06:04:56.426] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:05:21.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:05:21.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:05:21.931] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:05:22.228] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld TilinParty add flag walker-freeze' by 'Steelinvisible'.
+[11Dec2024 06:05:22.228] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 06:05:22.687] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[11Dec2024 06:05:33.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uh06va7phiu6]: started parsing
+[11Dec2024 06:05:33.376] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uh06va7phiu6]: Consuming argument ``
+[11Dec2024 06:05:33.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3vcd71h88ew]: started parsing
+[11Dec2024 06:05:33.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3vcd71h88ew]: Consuming argument `0`
+[11Dec2024 06:05:33.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r3vcd71h88ew]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:33.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pt6ki0o2sdj4]: started parsing
+[11Dec2024 06:05:33.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pt6ki0o2sdj4]: Consuming argument `0`
+[11Dec2024 06:05:33.808] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pt6ki0o2sdj4]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:35.637] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[11Dec2024 06:05:46.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tyu54cgmmziv]: started parsing
+[11Dec2024 06:05:46.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tyu54cgmmziv]: Consuming argument `0`
+[11Dec2024 06:05:46.564] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tyu54cgmmziv]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:46.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vp7v93nlh4u]: started parsing
+[11Dec2024 06:05:46.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vp7v93nlh4u]: Consuming argument `0`
+[11Dec2024 06:05:46.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02vp7v93nlh4u]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:46.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02xtsu4bz5bw7]: started parsing
+[11Dec2024 06:05:46.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02xtsu4bz5bw7]: Consuming argument `0`
+[11Dec2024 06:05:46.950] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02xtsu4bz5bw7]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:51.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:05:51.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:05:51.982] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d27eofuqdkah]: started parsing
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d27eofuqdkah]: Consuming argument `0`
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d27eofuqdkah]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12pm4w1m9q1kc]: started parsing
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12pm4w1m9q1kc]: Consuming argument `0`
+[11Dec2024 06:05:54.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12pm4w1m9q1kc]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:05:55.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xw07qaact3gp]: started parsing
+[11Dec2024 06:05:55.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xw07qaact3gp]: Consuming argument `0`
+[11Dec2024 06:05:55.028] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xw07qaact3gp]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5ookqif6zog]: started parsing
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5ookqif6zog]: Consuming argument `0`
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f5ookqif6zog]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecmgexmx7lye]: started parsing
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecmgexmx7lye]: Consuming argument `0`
+[11Dec2024 06:06:01.560] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecmgexmx7lye]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:01.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efv97my3epwv]: started parsing
+[11Dec2024 06:06:01.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efv97my3epwv]: Consuming argument `0`
+[11Dec2024 06:06:01.662] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0efv97my3epwv]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:09.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yldy7eb6rk9]: started parsing
+[11Dec2024 06:06:09.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yldy7eb6rk9]: Consuming argument `0`
+[11Dec2024 06:06:09.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yldy7eb6rk9]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:09.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ou5bnar26fnh]: started parsing
+[11Dec2024 06:06:09.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ou5bnar26fnh]: Consuming argument `0`
+[11Dec2024 06:06:09.694] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ou5bnar26fnh]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:09.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1trhr9vi5um93]: started parsing
+[11Dec2024 06:06:09.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1trhr9vi5um93]: Consuming argument `0`
+[11Dec2024 06:06:09.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1trhr9vi5um93]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:06:22.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:06:22.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:06:22.031] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:06:52.080] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:06:52.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:06:52.081] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:07:05.672] [Server thread/INFO] [YAWP/]: Saving 9 region(s) for 4 dimensions
+[11Dec2024 06:07:05.672] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_nether
+[11Dec2024 06:07:05.673] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_end
+[11Dec2024 06:07:05.673] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension twilightforest:twilight_forest
+[11Dec2024 06:07:05.673] [Server thread/INFO] [YAWP/]: Saving 9 region(s) for dimension minecraft:overworld
+[11Dec2024 06:07:05.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 06:07:05.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 06:07:05.840] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[11Dec2024 06:07:22.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:07:22.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:07:22.131] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:07:52.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:07:52.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:07:52.181] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:08:04.315] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45610, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.316] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45610, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.316] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45610, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:flotsam_2
+[11Dec2024 06:08:04.648] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45613, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.649] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45613, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.649] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45613, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.649] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45615, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.650] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45615, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.650] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45615, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.656] [IO-Worker-96/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[11Dec2024 06:08:04.656] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45618, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.657] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45618, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.657] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45618, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.658] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45619, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.658] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45619, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.658] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45619, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.659] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45620, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.659] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45620, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.659] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45620, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.682] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45625, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.683] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45625, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.683] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45625, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.684] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Zombie['Husk'/45630, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Zombie) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.684] [Server thread/INFO] [Easy NPC/]: Register default handler for Zombie['Husk'/45630, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant HUSK ...
+[11Dec2024 06:08:04.685] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Zombie['Husk'/45630, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.685] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45631, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.686] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45631, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.686] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45631, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.713] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45652, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.714] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45652, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.714] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45652, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.720] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/45657, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[11Dec2024 06:08:04.721] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/45657, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[11Dec2024 06:08:04.721] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/45657, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[11Dec2024 06:08:04.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[11Dec2024 06:08:04.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_04
+[11Dec2024 06:08:04.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_03
+[11Dec2024 06:08:04.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[11Dec2024 06:08:04.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_06
+[11Dec2024 06:08:04.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[11Dec2024 06:08:04.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_mason_1
+[11Dec2024 06:08:04.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_06
+[11Dec2024 06:08:04.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_5
+[11Dec2024 06:08:04.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_05
+[11Dec2024 06:08:04.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_medium_house_1
+[11Dec2024 06:08:04.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_1
+[11Dec2024 06:08:04.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fletcher_1
+[11Dec2024 06:08:04.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_01
+[11Dec2024 06:08:04.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_2
+[11Dec2024 06:08:04.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_fisher_1
+[11Dec2024 06:08:04.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_01
+[11Dec2024 06:08:04.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_02
+[11Dec2024 06:08:04.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_1
+[11Dec2024 06:08:04.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_3
+[11Dec2024 06:08:04.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_05
+[11Dec2024 06:08:04.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_house_4
+[11Dec2024 06:08:04.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/birch_forest_decor_2
+[11Dec2024 06:08:04.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_03
+[11Dec2024 06:08:04.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/crossroad_04
+[11Dec2024 06:08:04.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/houses/birch_forest_small_farm_1
+[11Dec2024 06:08:04.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_03
+[11Dec2024 06:08:04.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/straight_02
+[11Dec2024 06:08:04.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/streets/corner_02
+[11Dec2024 06:08:04.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_04
+[11Dec2024 06:08:04.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_03
+[11Dec2024 06:08:04.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/terminators/terminator_01
+[11Dec2024 06:08:05.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_3
+[11Dec2024 06:08:05.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:underground_dungeon_1
+[11Dec2024 06:08:05.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:wall_ruin_2
+[11Dec2024 06:08:05.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:bush_1
+[11Dec2024 06:08:05.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:damaged_mushroom_2
+[11Dec2024 06:08:09.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:well_1
+[11Dec2024 06:08:17.223] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[11Dec2024 06:08:17.229] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[11Dec2024 06:08:22.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:08:22.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:08:22.231] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:08:52.280] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:08:52.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:08:52.281] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:08:56.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxu0v9iz2bh1]: started parsing
+[11Dec2024 06:08:56.022] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sxu0v9iz2bh1]: Consuming argument ``
+[11Dec2024 06:08:56.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tnpx5jtckcb7]: started parsing
+[11Dec2024 06:08:56.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tnpx5jtckcb7]: Consuming argument `0`
+[11Dec2024 06:08:56.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tnpx5jtckcb7]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:08:56.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mvrqe3lmtug5]: started parsing
+[11Dec2024 06:08:56.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mvrqe3lmtug5]: Consuming argument `0`
+[11Dec2024 06:08:56.659] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mvrqe3lmtug5]: Consuming argument ``
+[11Dec2024 06:09:00.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dwsq1v6130o9]: started parsing
+[11Dec2024 06:09:00.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dwsq1v6130o9]: Consuming argument `0`
+[11Dec2024 06:09:00.731] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dwsq1v6130o9]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:01.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0siowg8owu20c]: started parsing
+[11Dec2024 06:09:01.658] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0siowg8owu20c]: Consuming argument `0,`
+[11Dec2024 06:09:01.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nm2pxi8bhfxm]: started parsing
+[11Dec2024 06:09:01.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nm2pxi8bhfxm]: Consuming argument `0,`
+[11Dec2024 06:09:01.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nm2pxi8bhfxm]: Consuming argument ``
+[11Dec2024 06:09:04.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x86x3hbgl8iw]: started parsing
+[11Dec2024 06:09:04.907] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x86x3hbgl8iw]: Consuming argument `0,`
+[11Dec2024 06:09:08.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nzh0tjwxvocp]: started parsing
+[11Dec2024 06:09:08.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nzh0tjwxvocp]: Consuming argument `0,s`
+[11Dec2024 06:09:08.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpxlwy3fq3id]: started parsing
+[11Dec2024 06:09:08.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpxlwy3fq3id]: Consuming argument `0,st`
+[11Dec2024 06:09:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xstsrlnik586]: started parsing
+[11Dec2024 06:09:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xstsrlnik586]: Consuming argument `0,sto`
+[11Dec2024 06:09:09.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pead9oag9lae]: started parsing
+[11Dec2024 06:09:09.068] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pead9oag9lae]: Consuming argument `0,ston`
+[11Dec2024 06:09:09.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wfqaaiz0j7x]: started parsing
+[11Dec2024 06:09:09.159] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wfqaaiz0j7x]: Consuming argument `0,stone`
+[11Dec2024 06:09:09.160] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17wfqaaiz0j7x]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:10.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qddlnthf79wy]: started parsing
+[11Dec2024 06:09:10.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qddlnthf79wy]: Consuming argument `0,stone_`
+[11Dec2024 06:09:10.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c59zt30744gi]: started parsing
+[11Dec2024 06:09:10.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c59zt30744gi]: Consuming argument `0,stone_b`
+[11Dec2024 06:09:10.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0awsz9xfmbcgf]: started parsing
+[11Dec2024 06:09:10.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0awsz9xfmbcgf]: Consuming argument `0,stone_br`
+[11Dec2024 06:09:10.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gey3i6k9rwa9]: started parsing
+[11Dec2024 06:09:10.628] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gey3i6k9rwa9]: Consuming argument `0,stone_bri`
+[11Dec2024 06:09:10.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6ehp5h72npu]: started parsing
+[11Dec2024 06:09:10.745] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s6ehp5h72npu]: Consuming argument `0,stone_bric`
+[11Dec2024 06:09:10.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3woidzd4znn]: started parsing
+[11Dec2024 06:09:10.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l3woidzd4znn]: Consuming argument `0,stone_brick`
+[11Dec2024 06:09:10.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fl12fbyf3mwy]: started parsing
+[11Dec2024 06:09:10.990] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fl12fbyf3mwy]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:10.990] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fl12fbyf3mwy]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:11.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bp451n0ahnzs]: started parsing
+[11Dec2024 06:09:11.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bp451n0ahnzs]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:11.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bp451n0ahnzs]: Consuming argument ``
+[11Dec2024 06:09:12.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hk9njnxz1ym1]: started parsing
+[11Dec2024 06:09:12.647] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hk9njnxz1ym1]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:12.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hk9njnxz1ym1]: Consuming argument `b`
+[11Dec2024 06:09:12.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xaxckn3zguuf]: started parsing
+[11Dec2024 06:09:12.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xaxckn3zguuf]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:12.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xaxckn3zguuf]: Consuming argument `ba`
+[11Dec2024 06:09:12.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mfn4pxbzuclj]: started parsing
+[11Dec2024 06:09:12.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mfn4pxbzuclj]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:12.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mfn4pxbzuclj]: Consuming argument `bar`
+[11Dec2024 06:09:13.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5f18afys4iw]: started parsing
+[11Dec2024 06:09:13.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5f18afys4iw]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:13.096] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5f18afys4iw]: Consuming argument `barr`
+[11Dec2024 06:09:13.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yclg2v8oege]: started parsing
+[11Dec2024 06:09:13.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yclg2v8oege]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:13.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yclg2v8oege]: Consuming argument `barri`
+[11Dec2024 06:09:13.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjvz2sjtoveu]: started parsing
+[11Dec2024 06:09:13.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjvz2sjtoveu]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:13.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mjvz2sjtoveu]: Consuming argument `barrie`
+[11Dec2024 06:09:13.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sux5nry5kght]: started parsing
+[11Dec2024 06:09:13.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sux5nry5kght]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:13.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sux5nry5kght]: Consuming argument `barrier`
+[11Dec2024 06:09:13.319] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sux5nry5kght]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:14.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ray1c27n85q]: started parsing
+[11Dec2024 06:09:14.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ray1c27n85q]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:14.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ray1c27n85q]: Consuming argument `barrier+`
+[11Dec2024 06:09:14.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jj4bc6blw3kq]: started parsing
+[11Dec2024 06:09:14.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jj4bc6blw3kq]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:14.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jj4bc6blw3kq]: Consuming argument `barrier+`
+[11Dec2024 06:09:15.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugbi3cpk8qke]: started parsing
+[11Dec2024 06:09:15.853] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugbi3cpk8qke]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:15.854] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ugbi3cpk8qke]: Consuming argument `barrier+`
+[11Dec2024 06:09:15.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bnx4h9ug0hmv]: started parsing
+[11Dec2024 06:09:15.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bnx4h9ug0hmv]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:15.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bnx4h9ug0hmv]: Consuming argument `barrier+`
+[11Dec2024 06:09:16.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04j9udaaqc8m3]: started parsing
+[11Dec2024 06:09:16.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04j9udaaqc8m3]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:16.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04j9udaaqc8m3]: Consuming argument `barrier`
+[11Dec2024 06:09:16.495] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04j9udaaqc8m3]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:16.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eniqg6fxotw8]: started parsing
+[11Dec2024 06:09:16.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eniqg6fxotw8]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:16.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eniqg6fxotw8]: Consuming argument `barrier`
+[11Dec2024 06:09:16.739] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eniqg6fxotw8]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:22.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:09:22.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:09:22.332] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:09:27.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo4se5bim4qg]: started parsing
+[11Dec2024 06:09:27.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo4se5bim4qg]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:27.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo4se5bim4qg]: Consuming argument `barrier`
+[11Dec2024 06:09:27.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oo4se5bim4qg]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:27.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sdv6pvrlu10]: started parsing
+[11Dec2024 06:09:27.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sdv6pvrlu10]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:27.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sdv6pvrlu10]: Consuming argument `barrier`
+[11Dec2024 06:09:27.244] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sdv6pvrlu10]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:27.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q35k7iqah3g7]: started parsing
+[11Dec2024 06:09:27.429] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q35k7iqah3g7]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:27.430] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q35k7iqah3g7]: Consuming argument `barrier`
+[11Dec2024 06:09:27.430] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q35k7iqah3g7]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2mh7ikmu5gd]: started parsing
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2mh7ikmu5gd]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2mh7ikmu5gd]: Consuming argument `barrier`
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j2mh7ikmu5gd]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11e71r2vli0nw]: started parsing
+[11Dec2024 06:09:39.409] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11e71r2vli0nw]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:39.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11e71r2vli0nw]: Consuming argument `barrier`
+[11Dec2024 06:09:39.410] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11e71r2vli0nw]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:39.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ny3rz3vkh2va]: started parsing
+[11Dec2024 06:09:39.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ny3rz3vkh2va]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:39.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ny3rz3vkh2va]: Consuming argument `barrier`
+[11Dec2024 06:09:39.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ny3rz3vkh2va]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wouv2p0uvlho]: started parsing
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wouv2p0uvlho]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wouv2p0uvlho]: Consuming argument `barrier`
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wouv2p0uvlho]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie1qn21rzvow]: started parsing
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie1qn21rzvow]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:47.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie1qn21rzvow]: Consuming argument `barrier`
+[11Dec2024 06:09:47.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ie1qn21rzvow]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:48.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akl2caoatlmw]: started parsing
+[11Dec2024 06:09:48.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akl2caoatlmw]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:09:48.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akl2caoatlmw]: Consuming argument `barrier`
+[11Dec2024 06:09:48.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1akl2caoatlmw]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:09:52.380] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:09:52.380] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:09:52.380] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:10:22.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:10:22.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:10:22.431] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:10:52.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:10:52.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:10:52.481] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wbv0oo884128]: started parsing
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wbv0oo884128]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wbv0oo884128]: Consuming argument `barrier`
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wbv0oo884128]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obeszhzmuxhv]: started parsing
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obeszhzmuxhv]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obeszhzmuxhv]: Consuming argument `barrier`
+[11Dec2024 06:10:53.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obeszhzmuxhv]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:10:54.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a6mqvam7p1k1]: started parsing
+[11Dec2024 06:10:54.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a6mqvam7p1k1]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:10:54.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a6mqvam7p1k1]: Consuming argument ``
+[11Dec2024 06:10:54.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1781ta21y7j4h]: started parsing
+[11Dec2024 06:10:54.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1781ta21y7j4h]: Consuming argument ``
+[11Dec2024 06:10:55.041] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ifnn42mavhr3]: started parsing
+[11Dec2024 06:10:55.041] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ifnn42mavhr3]: Consuming argument ``
+[11Dec2024 06:10:55.741] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18psb9xoccwmd]: started parsing
+[11Dec2024 06:10:55.741] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18psb9xoccwmd]: Consuming argument `w`
+[11Dec2024 06:10:55.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l1vn79qq0ng0]: started parsing
+[11Dec2024 06:10:55.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l1vn79qq0ng0]: Consuming argument `wa`
+[11Dec2024 06:10:55.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06lo3yi1o73hf]: started parsing
+[11Dec2024 06:10:55.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06lo3yi1o73hf]: Consuming argument `wat`
+[11Dec2024 06:10:56.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yiymwpq88oxq]: started parsing
+[11Dec2024 06:10:56.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yiymwpq88oxq]: Consuming argument `wate`
+[11Dec2024 06:10:56.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p51mmg6qih5u]: started parsing
+[11Dec2024 06:10:56.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p51mmg6qih5u]: Consuming argument `water`
+[11Dec2024 06:10:56.173] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p51mmg6qih5u]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:10:56.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvgo5tgemmif]: started parsing
+[11Dec2024 06:10:56.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvgo5tgemmif]: Consuming argument `water`
+[11Dec2024 06:10:56.358] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvgo5tgemmif]: Consuming argument ``
+[11Dec2024 06:10:56.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bxgp6xgybwm]: started parsing
+[11Dec2024 06:10:56.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bxgp6xgybwm]: Consuming argument `water`
+[11Dec2024 06:10:56.609] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08bxgp6xgybwm]: Consuming argument `f`
+[11Dec2024 06:10:56.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mhwgu826hftp]: started parsing
+[11Dec2024 06:10:56.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mhwgu826hftp]: Consuming argument `water`
+[11Dec2024 06:10:56.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mhwgu826hftp]: Consuming argument `fa`
+[11Dec2024 06:10:57.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s48l2p49psiy]: started parsing
+[11Dec2024 06:10:57.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s48l2p49psiy]: Consuming argument `water`
+[11Dec2024 06:10:57.029] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s48l2p49psiy]: Consuming argument `f`
+[11Dec2024 06:10:57.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dzd26gugrbs3]: started parsing
+[11Dec2024 06:10:57.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dzd26gugrbs3]: Consuming argument `water`
+[11Dec2024 06:10:57.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dzd26gugrbs3]: Consuming argument ``
+[11Dec2024 06:10:57.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [144v0q9oenflc]: started parsing
+[11Dec2024 06:10:57.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [144v0q9oenflc]: Consuming argument `water`
+[11Dec2024 06:10:57.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [144v0q9oenflc]: Consuming argument `s`
+[11Dec2024 06:10:57.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fiox1x3ym8df]: started parsing
+[11Dec2024 06:10:57.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fiox1x3ym8df]: Consuming argument `water`
+[11Dec2024 06:10:57.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fiox1x3ym8df]: Consuming argument `se`
+[11Dec2024 06:10:57.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tbs2gl7sdaz]: started parsing
+[11Dec2024 06:10:57.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tbs2gl7sdaz]: Consuming argument `water`
+[11Dec2024 06:10:57.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13tbs2gl7sdaz]: Consuming argument `sec`
+[11Dec2024 06:10:57.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7hbohd9wcou]: started parsing
+[11Dec2024 06:10:57.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7hbohd9wcou]: Consuming argument `water`
+[11Dec2024 06:10:57.794] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o7hbohd9wcou]: Consuming argument `secu`
+[11Dec2024 06:10:57.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y131lw20534w]: started parsing
+[11Dec2024 06:10:57.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y131lw20534w]: Consuming argument `water`
+[11Dec2024 06:10:57.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y131lw20534w]: Consuming argument `secur`
+[11Dec2024 06:10:59.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mji5o9abj9or]: started parsing
+[11Dec2024 06:10:59.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mji5o9abj9or]: Consuming argument `water`
+[11Dec2024 06:10:59.643] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mji5o9abj9or]: Consuming argument `securitycraft:f`
+[11Dec2024 06:10:59.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vr4s736280mt]: started parsing
+[11Dec2024 06:10:59.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vr4s736280mt]: Consuming argument `water`
+[11Dec2024 06:10:59.653] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vr4s736280mt]: Consuming argument `securitycraft:fa`
+[11Dec2024 06:10:59.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mtmdw15yh63]: started parsing
+[11Dec2024 06:10:59.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mtmdw15yh63]: Consuming argument `water`
+[11Dec2024 06:10:59.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10mtmdw15yh63]: Consuming argument `securitycraft:fak`
+[11Dec2024 06:10:59.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19a8h46p4z9k2]: started parsing
+[11Dec2024 06:10:59.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19a8h46p4z9k2]: Consuming argument `water`
+[11Dec2024 06:10:59.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19a8h46p4z9k2]: Consuming argument `securitycraft:fake`
+[11Dec2024 06:11:00.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wkhw80b14xi]: started parsing
+[11Dec2024 06:11:00.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wkhw80b14xi]: Consuming argument `water`
+[11Dec2024 06:11:00.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03wkhw80b14xi]: Consuming argument `securitycraft:fake_`
+[11Dec2024 06:11:01.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ok1ptg09g7at]: started parsing
+[11Dec2024 06:11:01.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ok1ptg09g7at]: Consuming argument `water`
+[11Dec2024 06:11:01.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ok1ptg09g7at]: Consuming argument `securitycraft:fake_water_block`
+[11Dec2024 06:11:01.341] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ok1ptg09g7at]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:20.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc65yrfrvjtb]: started parsing
+[11Dec2024 06:11:20.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc65yrfrvjtb]: Consuming argument `water`
+[11Dec2024 06:11:20.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc65yrfrvjtb]: Consuming argument `securitycraft:fake_water_block`
+[11Dec2024 06:11:20.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lc65yrfrvjtb]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:20.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0043sz2eaqxzm]: started parsing
+[11Dec2024 06:11:20.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0043sz2eaqxzm]: Consuming argument `water`
+[11Dec2024 06:11:20.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0043sz2eaqxzm]: Consuming argument `securitycraft:fake_water_block`
+[11Dec2024 06:11:20.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0043sz2eaqxzm]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obvjfd4evk7v]: started parsing
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obvjfd4evk7v]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obvjfd4evk7v]: Consuming argument `barrier`
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1obvjfd4evk7v]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0894m92te6xs9]: started parsing
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0894m92te6xs9]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0894m92te6xs9]: Consuming argument `barrier`
+[11Dec2024 06:11:20.888] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0894m92te6xs9]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:21.323] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01i8cn1ipbayl]: started parsing
+[11Dec2024 06:11:21.323] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01i8cn1ipbayl]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:21.323] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01i8cn1ipbayl]: Consuming argument `barrier`
+[11Dec2024 06:11:21.323] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01i8cn1ipbayl]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:22.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:11:22.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:11:22.531] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qg6vtarudd91]: started parsing
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qg6vtarudd91]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qg6vtarudd91]: Consuming argument `barrier`
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qg6vtarudd91]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpsq9jnalij3]: started parsing
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpsq9jnalij3]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpsq9jnalij3]: Consuming argument `barrier`
+[11Dec2024 06:11:31.809] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpsq9jnalij3]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:31.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urcf8yzjgwwp]: started parsing
+[11Dec2024 06:11:31.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urcf8yzjgwwp]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:11:31.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urcf8yzjgwwp]: Consuming argument `barrier`
+[11Dec2024 06:11:31.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1urcf8yzjgwwp]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:11:52.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:11:52.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:11:52.581] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:12:05.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 06:12:05.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 06:12:09.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0qwfnn88mio]: started parsing
+[11Dec2024 06:12:09.959] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0qwfnn88mio]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0qwfnn88mio]: Consuming argument `barrier`
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0qwfnn88mio]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069161t0mtbmn]: started parsing
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069161t0mtbmn]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069161t0mtbmn]: Consuming argument `barrier`
+[11Dec2024 06:12:09.960] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [069161t0mtbmn]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:10.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddhtj0lblxf1]: started parsing
+[11Dec2024 06:12:10.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddhtj0lblxf1]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:10.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddhtj0lblxf1]: Consuming argument `barrier`
+[11Dec2024 06:12:10.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddhtj0lblxf1]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:22.558] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rngfq2lkk57]: started parsing
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rngfq2lkk57]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rngfq2lkk57]: Consuming argument `barrier`
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17rngfq2lkk57]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd1x9le2j5zl]: started parsing
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd1x9le2j5zl]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd1x9le2j5zl]: Consuming argument `barrier`
+[11Dec2024 06:12:22.559] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kd1x9le2j5zl]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:22.630] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:12:22.630] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:12:22.630] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:12:23.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mg006eezzxj9]: started parsing
+[11Dec2024 06:12:23.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mg006eezzxj9]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:23.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mg006eezzxj9]: Consuming argument `barrier`
+[11Dec2024 06:12:23.121] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mg006eezzxj9]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:35.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjaej5wodmi2]: started parsing
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjaej5wodmi2]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjaej5wodmi2]: Consuming argument `barrier`
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sjaej5wodmi2]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05lkpnby26yh0]: started parsing
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05lkpnby26yh0]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05lkpnby26yh0]: Consuming argument `barrier`
+[11Dec2024 06:12:35.567] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05lkpnby26yh0]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:35.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly7zozr4qu8k]: started parsing
+[11Dec2024 06:12:35.690] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly7zozr4qu8k]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:35.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly7zozr4qu8k]: Consuming argument `barrier`
+[11Dec2024 06:12:35.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ly7zozr4qu8k]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1isz3dnaarssy]: started parsing
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1isz3dnaarssy]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1isz3dnaarssy]: Consuming argument `barrier`
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1isz3dnaarssy]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rukansrbwe7q]: started parsing
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rukansrbwe7q]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rukansrbwe7q]: Consuming argument `barrier`
+[11Dec2024 06:12:46.517] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rukansrbwe7q]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:46.692] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9yj5h4i3l8e]: started parsing
+[11Dec2024 06:12:46.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9yj5h4i3l8e]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:46.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9yj5h4i3l8e]: Consuming argument `barrier`
+[11Dec2024 06:12:46.693] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t9yj5h4i3l8e]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:52.681] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 06:12:52.681] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 06:12:52.681] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r101tiubq82s]: started parsing
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r101tiubq82s]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r101tiubq82s]: Consuming argument `barrier`
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r101tiubq82s]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btwesh8xelx8]: started parsing
+[11Dec2024 06:12:55.394] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btwesh8xelx8]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:55.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btwesh8xelx8]: Consuming argument `barrier`
+[11Dec2024 06:12:55.395] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btwesh8xelx8]: Finished looking at arguments. Finalizing command.
+[11Dec2024 06:12:55.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudesvx78ysd]: started parsing
+[11Dec2024 06:12:55.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudesvx78ysd]: Consuming argument `0,stone_bricks`
+[11Dec2024 06:12:55.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudesvx78ysd]: Consuming argument `barrier`
+[11Dec2024 06:12:55.427] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vudesvx78ysd]: Finished looking at arguments. Finalizing command.
