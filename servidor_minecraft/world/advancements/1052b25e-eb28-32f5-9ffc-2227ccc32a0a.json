@@ -11903,6 +11903,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/steeleaf_block_ingot": {
+    "criteria": {
+      "has_item": "2024-12-11 05:22:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_slab_from_reinforced_smooth_stone_stonecutting": {
     "criteria": {
       "has_reinforced_smooth_stone": "2024-12-11 04:38:41 +0000"
