@@ -1473,3 +1473,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 04:34:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Applied effect Darkness to Steelinvisible]
 [11Dec2024 04:34:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Applied effect Blindness to Steelinvisible]
 [11Dec2024 04:34:37.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Removed every effect from Steelinvisible]
+[11Dec2024 04:47:09.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Survival Mode]
+[11Dec2024 04:47:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
