@@ -12505,6 +12505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 04:29:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
     "criteria": {
       "has_block": "2024-12-11 04:25:38 +0000"
@@ -12520,6 +12526,24 @@
   "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
     "criteria": {
       "has_block": "2024-12-11 04:25:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-11 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-11 04:29:35 +0000"
     },
     "done": true
   },
