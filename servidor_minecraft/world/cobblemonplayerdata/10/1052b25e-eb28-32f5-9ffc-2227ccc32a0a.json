@@ -11,9 +11,9 @@
     "totalCaptureCount": 39,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 67,
+    "totalBattleVictoryCount": 68,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 48,
+    "totalPvWBattleVictoryCount": 49,
     "totalPvNBattleVictoryCount": 19,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -52,7 +52,8 @@
       "cobblemon:golduck": 1,
       "cobblemon:rowlet": 1,
       "cobblemon:pyukumuku": 1,
-      "cobblemon:sharpedo": 1
+      "cobblemon:sharpedo": 1,
+      "cobblemon:bidoof": 1
     },
     "aspectsCollected": {
       "cobblemon:gholdengo": []

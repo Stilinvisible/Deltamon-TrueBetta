@@ -1511,3 +1511,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 05:41:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
 [11Dec2024 05:41:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Gave 1 [Command Block] to Reflexont]
 [11Dec2024 05:42:13.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible moved too quickly! -0.40491177972648984,0.0,-10.733620165920684
+[11Dec2024 05:49:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 05:49:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 05:51:12.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible moved too quickly! 0.5182103719027964,0.0,-10.252328191969355
