@@ -9565,3 +9565,193 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 04:01:09.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [11Dec2024 04:01:09.531] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [11Dec2024 04:01:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:01:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:01:39.580] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:01:39.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:01:39.581] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:01:43.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2469.500000, 319.000000, 29.500000]
+[11Dec2024 04:01:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:01:53.045] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[11Dec2024 04:01:53.048] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[11Dec2024 04:02:05.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 04:02:05.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 04:02:09.630] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:02:09.630] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:02:09.630] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:02:21.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2469.500000, 319.000000, 29.500000]
+[11Dec2024 04:02:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:02:39.680] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:02:39.680] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:02:39.680] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:02:55.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ts067ktxt4rm]: started parsing
+[11Dec2024 04:02:55.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ts067ktxt4rm]: Consuming argument `0`
+[11Dec2024 04:02:55.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ts067ktxt4rm]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:02:55.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2r4fltozfk8]: started parsing
+[11Dec2024 04:02:55.292] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2r4fltozfk8]: Consuming argument `0`
+[11Dec2024 04:02:55.292] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s2r4fltozfk8]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:02:55.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we7i51zwcszh]: started parsing
+[11Dec2024 04:02:55.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we7i51zwcszh]: Consuming argument `0`
+[11Dec2024 04:02:55.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0we7i51zwcszh]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:02:55.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04d4wpzeqacli]: started parsing
+[11Dec2024 04:02:55.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04d4wpzeqacli]: Consuming argument `0`
+[11Dec2024 04:02:55.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04d4wpzeqacli]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:02:56.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06k1quxnzg4iy]: started parsing
+[11Dec2024 04:02:56.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06k1quxnzg4iy]: Consuming argument `0`
+[11Dec2024 04:02:56.240] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06k1quxnzg4iy]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:03:03.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2602.500000, -64.000000, 254.500000]
+[11Dec2024 04:03:06.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:03:09.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:03:09.731] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:03:09.732] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:03:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:03:39.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:03:39.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:03:39.781] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:04:09.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:04:09.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:04:09.830] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:04:32.075] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld GymBioshock area Cuboid 2625 -64 272 2447 319 11' by 'Steelinvisible'.
+[11Dec2024 04:04:32.077] [Server thread/INFO] [YAWP/]: New priority 10 for region GymBioshock
+[11Dec2024 04:04:32.078] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[11Dec2024 04:04:36.360] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld GymBioshock spatial' by 'Steelinvisible'.
+[11Dec2024 04:04:39.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:04:39.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:04:39.881] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:04:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2625.500000, -64.000000, 272.500000]
+[11Dec2024 04:04:47.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2447.500000, 319.000000, 11.500000]
+[11Dec2024 04:04:47.554] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[11Dec2024 04:04:47.554] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[11Dec2024 04:04:47.555] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[11Dec2024 04:04:55.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:05:09.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:05:09.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:05:09.931] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:05:39.981] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:05:39.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:05:39.982] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:06:10.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:06:10.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:06:10.032] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:06:40.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:06:40.081] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:06:40.081] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:06:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[11Dec2024 04:06:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[11Dec2024 04:07:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:07:05.680] [Server thread/INFO] [YAWP/]: Saving 8 region(s) for 4 dimensions
+[11Dec2024 04:07:05.680] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_nether
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_end
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension twilightforest:twilight_forest
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 8 region(s) for dimension minecraft:overworld
+[11Dec2024 04:07:05.702] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[11Dec2024 04:07:05.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[11Dec2024 04:07:05.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[11Dec2024 04:07:10.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:07:10.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:07:10.131] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:07:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:07:22.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1245tu1q4fu0t]: started parsing
+[11Dec2024 04:07:22.441] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1245tu1q4fu0t]: Consuming argument ``
+[11Dec2024 04:07:22.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bokll0egg3k]: started parsing
+[11Dec2024 04:07:22.578] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17bokll0egg3k]: Consuming argument `w`
+[11Dec2024 04:07:22.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jfglmfbbdfey]: started parsing
+[11Dec2024 04:07:22.660] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jfglmfbbdfey]: Consuming argument `wa`
+[11Dec2024 04:07:22.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cblhtq0i6ntv]: started parsing
+[11Dec2024 04:07:22.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cblhtq0i6ntv]: Consuming argument `wat`
+[11Dec2024 04:07:22.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8gy8olv17bs]: started parsing
+[11Dec2024 04:07:22.918] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t8gy8olv17bs]: Consuming argument `wate`
+[11Dec2024 04:07:23.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dk6zzh0tybdp]: started parsing
+[11Dec2024 04:07:23.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dk6zzh0tybdp]: Consuming argument `water`
+[11Dec2024 04:07:23.071] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dk6zzh0tybdp]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:07:23.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6ymbhpeny4v]: started parsing
+[11Dec2024 04:07:23.289] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6ymbhpeny4v]: Consuming argument `water`
+[11Dec2024 04:07:23.291] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t6ymbhpeny4v]: Consuming argument ``
+[11Dec2024 04:07:23.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey9vx0phs6l1]: started parsing
+[11Dec2024 04:07:23.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey9vx0phs6l1]: Consuming argument `water`
+[11Dec2024 04:07:23.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey9vx0phs6l1]: Consuming argument `0`
+[11Dec2024 04:07:23.728] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey9vx0phs6l1]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:07:24.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15zruo0un3uoq]: started parsing
+[11Dec2024 04:07:24.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15zruo0un3uoq]: Consuming argument `water`
+[11Dec2024 04:07:24.014] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15zruo0un3uoq]: Consuming argument `0`
+[11Dec2024 04:07:24.015] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15zruo0un3uoq]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:07:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:07:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:07:40.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:07:40.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:07:40.182] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:07:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:08:04.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ahqhs46z8jf5]: started parsing
+[11Dec2024 04:08:04.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ahqhs46z8jf5]: Consuming argument `water`
+[11Dec2024 04:08:04.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ahqhs46z8jf5]: Consuming argument `0`
+[11Dec2024 04:08:04.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ahqhs46z8jf5]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:04.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mwxwb7uksc4d]: started parsing
+[11Dec2024 04:08:04.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mwxwb7uksc4d]: Consuming argument `water`
+[11Dec2024 04:08:04.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mwxwb7uksc4d]: Consuming argument `0`
+[11Dec2024 04:08:04.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mwxwb7uksc4d]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:04.826] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15bzvci4d3db6]: started parsing
+[11Dec2024 04:08:04.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15bzvci4d3db6]: Consuming argument `water`
+[11Dec2024 04:08:04.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15bzvci4d3db6]: Consuming argument `0`
+[11Dec2024 04:08:04.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15bzvci4d3db6]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynml29w2qph7]: started parsing
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynml29w2qph7]: Consuming argument `water`
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynml29w2qph7]: Consuming argument `0`
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynml29w2qph7]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b54pi5vdnqt6]: started parsing
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b54pi5vdnqt6]: Consuming argument `water`
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b54pi5vdnqt6]: Consuming argument `0`
+[11Dec2024 04:08:08.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b54pi5vdnqt6]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:09.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v9m209fj1due]: started parsing
+[11Dec2024 04:08:09.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v9m209fj1due]: Consuming argument `water`
+[11Dec2024 04:08:09.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v9m209fj1due]: Consuming argument `0`
+[11Dec2024 04:08:09.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v9m209fj1due]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:08:10.230] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:08:10.230] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:08:10.230] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:08:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:08:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:08:22.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:08:30.783] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[11Dec2024 04:08:30.783] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[11Dec2024 04:08:40.280] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:08:40.280] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:08:40.280] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:09:10.330] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:09:10.330] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:09:10.330] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:09:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:09:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:09:40.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:09:40.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:09:40.382] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:10:10.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:10:10.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:10:10.431] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:10:40.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:10:40.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:10:40.481] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[11Dec2024 04:11:03.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18r2197677r7y]: started parsing
+[11Dec2024 04:11:03.040] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18r2197677r7y]: Consuming argument ``
+[11Dec2024 04:11:04.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nb038s30q7h3]: started parsing
+[11Dec2024 04:11:04.178] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nb038s30q7h3]: Consuming argument `j`
+[11Dec2024 04:11:04.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bps43ayip7u2]: started parsing
+[11Dec2024 04:11:04.340] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bps43ayip7u2]: Consuming argument `ju`
+[11Dec2024 04:11:04.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c98i85po3o5h]: started parsing
+[11Dec2024 04:11:04.518] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c98i85po3o5h]: Consuming argument `jun`
+[11Dec2024 04:11:04.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r6ujlqlmpmg2]: started parsing
+[11Dec2024 04:11:04.595] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r6ujlqlmpmg2]: Consuming argument `jung`
+[11Dec2024 04:11:04.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f12wu9lt13tn]: started parsing
+[11Dec2024 04:11:04.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f12wu9lt13tn]: Consuming argument `jungl`
+[11Dec2024 04:11:04.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0my1vzu64ti7i]: started parsing
+[11Dec2024 04:11:04.766] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0my1vzu64ti7i]: Consuming argument `jungle`
+[11Dec2024 04:11:05.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i2mch5dnbo7f]: started parsing
+[11Dec2024 04:11:05.130] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i2mch5dnbo7f]: Consuming argument `jungle_`
+[11Dec2024 04:11:05.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj3cl08pasel]: started parsing
+[11Dec2024 04:11:05.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uj3cl08pasel]: Consuming argument `jungle_p`
+[11Dec2024 04:11:05.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09hiyk3gkbhrq]: started parsing
+[11Dec2024 04:11:05.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09hiyk3gkbhrq]: Consuming argument `jungle_pl`
+[11Dec2024 04:11:06.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1585qz3v2qd9x]: started parsing
+[11Dec2024 04:11:06.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1585qz3v2qd9x]: Consuming argument `jungle_planks`
+[11Dec2024 04:11:06.145] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1585qz3v2qd9x]: Finished looking at arguments. Finalizing command.
+[11Dec2024 04:11:10.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[11Dec2024 04:11:10.531] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[11Dec2024 04:11:10.531] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

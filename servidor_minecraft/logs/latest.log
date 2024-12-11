@@ -1432,3 +1432,32 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [11Dec2024 03:59:59.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
 [11Dec2024 04:00:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2469.500000, 319.000000, 29.500000]
 [11Dec2024 04:01:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:01:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:01:43.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2469.500000, 319.000000, 29.500000]
+[11Dec2024 04:01:52.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:02:21.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2469.500000, 319.000000, 29.500000]
+[11Dec2024 04:02:25.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:03:03.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2602.500000, -64.000000, 254.500000]
+[11Dec2024 04:03:06.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:03:12.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:04:32.077] [Server thread/INFO] [YAWP/]: New priority 10 for region GymBioshock
+[11Dec2024 04:04:40.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2625.500000, -64.000000, 272.500000]
+[11Dec2024 04:04:47.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2447.500000, 319.000000, 11.500000]
+[11Dec2024 04:04:55.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[11Dec2024 04:06:56.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[11Dec2024 04:06:59.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[11Dec2024 04:07:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:07:05.680] [Server thread/INFO] [YAWP/]: Saving 8 region(s) for 4 dimensions
+[11Dec2024 04:07:05.680] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_nether
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_end
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension twilightforest:twilight_forest
+[11Dec2024 04:07:05.681] [Server thread/INFO] [YAWP/]: Saving 8 region(s) for dimension minecraft:overworld
+[11Dec2024 04:07:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:07:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:07:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:07:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:08:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:08:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:08:22.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[11Dec2024 04:09:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[11Dec2024 04:09:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
