@@ -12601,9 +12601,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-17 01:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2024-12-17 01:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-17 01:33:06 +0000"
     },
     "done": true
   },
@@ -12613,15 +12625,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-17 01:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-17 01:33:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/compressed_blocks/reversed/steeleaf_block_ingot": {
     "criteria": {
       "has_item": "2024-12-17 00:56:47 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/arctic_block_to_item": {
+    "criteria": {
+      "has_item": "2024-12-17 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-17 01:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-17 01:34:50 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/evolution/water_stone_from_blasting_water_stone_ore": {
     "criteria": {
       "has_water_stone_ore": "2024-12-17 00:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-17 01:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-17 01:33:06 +0000"
     },
     "done": true
   },
