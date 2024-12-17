@@ -12607,6 +12607,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/steeleaf_block_ingot": {
+    "criteria": {
+      "has_item": "2024-12-17 00:56:47 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/evolution/water_stone_from_blasting_water_stone_ore": {
     "criteria": {
       "has_water_stone_ore": "2024-12-17 00:33:45 +0000"
