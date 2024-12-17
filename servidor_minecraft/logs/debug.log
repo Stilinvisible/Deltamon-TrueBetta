@@ -11145,3 +11145,122 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [17Dec2024 02:00:44.274] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [17Dec2024 02:01:06.195] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp dim minecraft:overworld create region Puzzle6 Cuboid 2529 15 183 2529 15 183' by 'Steelinvisible'.
 [17Dec2024 02:01:06.197] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[17Dec2024 02:01:12.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> un momento
+[17Dec2024 02:01:14.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:01:14.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:01:14.325] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:01:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Teleported Reflexont to Steelinvisible]
+[17Dec2024 02:01:21.672] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[17Dec2024 02:01:21.674] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[17Dec2024 02:01:27.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> :V
+[17Dec2024 02:01:41.104] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld GymBioshock add child Puzzle6' by 'Steelinvisible'.
+[17Dec2024 02:01:41.104] [Server thread/DEBUG] [YAWP/]: Setting parent 'GymBioshock' for region 'Puzzle6'
+[17Dec2024 02:01:41.104] [Server thread/DEBUG] [YAWP/]: Save for RegionDataManager called. Attempting to save region data...
+[17Dec2024 02:01:44.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:01:44.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:01:44.373] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:01:55.891] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld puzzle5 info' by 'Steelinvisible'.
+[17Dec2024 02:01:58.536] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld puzzle5 info' by 'Steelinvisible'.
+[17Dec2024 02:02:01.084] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld puzzle5 spatial' by 'Steelinvisible'.
+[17Dec2024 02:02:02.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to 2519.500000, 42.000000, 212.500000]
+[17Dec2024 02:02:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> por cierto
+[17Dec2024 02:02:14.423] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:02:14.423] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:02:14.424] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:02:15.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> a la hora de entrar al gym yo no voy a hablar por vc
+[17Dec2024 02:02:16.058] [Server thread/DEBUG] [YAWP/]: Executed command: 'yawp region minecraft:overworld GymBioshock add child puzzle5' by 'Steelinvisible'.
+[17Dec2024 02:02:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> comoasi
+[17Dec2024 02:02:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> hasta la presentacion de los minijuegos
+[17Dec2024 02:02:25.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> para hacerlo mas cine
+[17Dec2024 02:02:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[17Dec2024 02:02:44.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:02:44.474] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:02:44.475] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:02:47.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> goty
+[17Dec2024 02:02:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> mmmm
+[17Dec2024 02:02:59.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> vas a terminar?
+[17Dec2024 02:03:05.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> en quien?
+[17Dec2024 02:03:06.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> asi me ayudas con el proximo mini mini
+[17Dec2024 02:03:07.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> :temeroso:
+[17Dec2024 02:03:14.524] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:03:14.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:03:14.525] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:03:44.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:03:44.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:03:44.575] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:03:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> que prosigue
+[17Dec2024 02:03:49.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> hacer otro minigame
+[17Dec2024 02:03:53.676] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[17Dec2024 02:04:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> ta bonita en velda
+[17Dec2024 02:04:14.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:04:14.624] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:04:14.624] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:04:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> pero estas siendo sincero?
+[17Dec2024 02:04:35.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> capaz y si
+[17Dec2024 02:04:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[17Dec2024 02:04:44.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:04:44.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:04:44.675] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:04:48.318] [Server thread/INFO] [Easy NPC/]: Initialized SynchedEntityData for Humanoid['entity.easy_npc.humanoid'/32100, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] (class de.markusbordihn.easynpc.entity.easynpc.npc.Humanoid) with {ATTACK_IS_AGGRESSIVE=<entity data: 16>, ATTACK_IS_CHARGING_CROSSBOW=<entity data: 17>, ATTRIBUTE_CAN_BE_LEASHED=<entity data: 19>, ATTRIBUTE_CAN_CLOSE_DOOR=<entity data: 21>, ATTRIBUTE_CAN_FLOAT=<entity data: 20>, ATTRIBUTE_CAN_OPEN_DOOR=<entity data: 22>, ATTRIBUTE_CAN_PASS_DOOR=<entity data: 23>, ATTRIBUTE_CAN_USE_NETHER_PORTAL=<entity data: 24>, ATTRIBUTE_DATA_LOADED=<entity data: 18>, ATTRIBUTE_FREEFALL=<entity data: 25>, ATTRIBUTE_IS_ATTACKABLE=<entity data: 26>, ATTRIBUTE_IS_PUSHABLE=<entity data: 27>, ATTRIBUTE_LIGHT_LEVEL=<entity data: 29>, ATTRIBUTE_PUSH_ENTITIES=<entity data: 28>, MODEL_ARMS_POSITION=<entity data: 57>, MODEL_ARMS_ROTATION=<entity data: 65>, MODEL_ARMS_SCALE=<entity data: 49>, MODEL_ARMS_VISIBLE=<entity data: 73>, MODEL_BODY_POSITION=<entity data: 56>, MODEL_BODY_ROTATION=<entity data: 64>, MODEL_BODY_SCALE=<entity data: 48>, MODEL_BODY_VISIBLE=<entity data: 72>, MODEL_BOOTS_VISIBLE=<entity data: 81>, MODEL_CHESTPLATE_VISIBLE=<entity data: 79>, MODEL_HEAD_POSITION=<entity data: 55>, MODEL_HEAD_ROTATION=<entity data: 63>, MODEL_HEAD_SCALE=<entity data: 47>, MODEL_HEAD_VISIBLE=<entity data: 71>, MODEL_HELMET_VISIBLE=<entity data: 78>, MODEL_LEFT_ARM_POSITION=<entity data: 58>, MODEL_LEFT_ARM_ROTATION=<entity data: 66>, MODEL_LEFT_ARM_SCALE=<entity data: 50>, MODEL_LEFT_ARM_VISIBLE=<entity data: 74>, MODEL_LEFT_LEG_POSITION=<entity data: 60>, MODEL_LEFT_LEG_ROTATION=<entity data: 68>, MODEL_LEFT_LEG_SCALE=<entity data: 52>, MODEL_LEFT_LEG_VISIBLE=<entity data: 76>, MODEL_LEGGINGS_VISIBLE=<entity data: 80>, MODEL_LOCK_ROTATION=<entity data: 62>, MODEL_POSE=<entity data: 46>, MODEL_RIGHT_ARM_POSITION=<entity data: 59>, MODEL_RIGHT_ARM_ROTATION=<entity data: 67>, MODEL_RIGHT_ARM_SCALE=<entity data: 51>, MODEL_RIGHT_ARM_VISIBLE=<entity data: 75>, MODEL_RIGHT_LEG_POSITION=<entity data: 61>, MODEL_RIGHT_LEG_ROTATION=<entity data: 69>, MODEL_RIGHT_LEG_SCALE=<entity data: 53>, MODEL_RIGHT_LEG_VISIBLE=<entity data: 77>, MODEL_ROOT_ROTATION=<entity data: 70>, MODEL_SMART_ANIMATIONS=<entity data: 54>, NAVIGATION_HOME_POSITION=<entity data: 30>, OWNER_UUID=<entity data: 31>, PROFESSION=<entity data: 32>, SCALE_X=<entity data: 82>, SCALE_Y=<entity data: 83>, SCALE_Z=<entity data: 84>, SKIN_NAME=<entity data: 34>, SKIN_TYPE=<entity data: 37>, SKIN_URL=<entity data: 35>, SKIN_UUID=<entity data: 36>, SOUND_DATA_SET=<entity data: 38>, TRADING_BASIC_MAX_USES=<entity data: 43>, TRADING_BASIC_REWARDED_XP=<entity data: 44>, TRADING_INVENTORY=<entity data: 39>, TRADING_MERCHANT_OFFERS=<entity data: 40>, TRADING_RESETS_EVERY_MIN=<entity data: 42>, TRADING_TYPE=<entity data: 41>, VARIANT=<entity data: 45>, RENDER_DATA=<entity data: 33>}
+[17Dec2024 02:04:48.318] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/32100, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[17Dec2024 02:04:48.318] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/32100, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
+[17Dec2024 02:04:54.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> pon un teleporter al juego de fish
+[17Dec2024 02:05:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Steelinvisible> boeeee
+[17Dec2024 02:05:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> el teleporter tiene que estar abajo en el agua
+[17Dec2024 02:05:14.723] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:05:14.723] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:05:14.724] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:05:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reflexont> por mientras hago el adivina el objeto
+[17Dec2024 02:05:33.332] [Server thread/INFO] [YAWP/]: Saving 10 region(s) for 4 dimensions
+[17Dec2024 02:05:33.333] [Server thread/INFO] [YAWP/]: Saving 10 region(s) for dimension minecraft:overworld
+[17Dec2024 02:05:33.333] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension twilightforest:twilight_forest
+[17Dec2024 02:05:33.333] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_end
+[17Dec2024 02:05:33.333] [Server thread/INFO] [YAWP/]: Saving 0 region(s) for dimension minecraft:the_nether
+[17Dec2024 02:05:33.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[17Dec2024 02:05:33.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[17Dec2024 02:05:44.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:05:44.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:05:44.775] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:06:01.932] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[17Dec2024 02:06:14.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:06:14.824] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:06:14.825] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:06:44.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:06:44.874] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:06:44.874] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:06:55.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:stone_rock_2
+[17Dec2024 02:06:55.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of additionalstructures:spawn_altar_4
+[17Dec2024 02:07:14.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:07:14.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:07:14.925] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:07:44.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:07:44.974] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:07:44.974] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:08:15.023] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:08:15.023] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:08:15.024] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:08:45.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:08:45.074] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:08:45.074] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:09:09.287] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[17Dec2024 02:09:15.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:09:15.124] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:09:15.125] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:09:45.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:09:45.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:09:45.175] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:10:10.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reflexont lost connection: Timed out
+[17Dec2024 02:10:10.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reflexont left the game
+[17Dec2024 02:10:10.466] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[17Dec2024 02:10:10.466] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[17Dec2024 02:10:15.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:10:15.224] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:10:15.224] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:10:33.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[17Dec2024 02:10:33.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[17Dec2024 02:10:45.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:10:45.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:10:45.275] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[17Dec2024 02:11:15.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[17Dec2024 02:11:15.324] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[17Dec2024 02:11:15.324] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
