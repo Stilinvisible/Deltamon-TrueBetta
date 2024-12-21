@@ -1416,3 +1416,7 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [21Dec2024 22:57:32.926] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/3675, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [21Dec2024 22:57:32.927] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/3675, l='ServerLevel[intento de verdad]', x=0.00, y=0.00, z=0.00] ...
 [21Dec2024 22:58:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Teleported Steelinvisible to Reflexont]
+[21Dec2024 23:08:57.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Survival Mode]
+[21Dec2024 23:09:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[21Dec2024 23:09:01.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[21Dec2024 23:09:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]

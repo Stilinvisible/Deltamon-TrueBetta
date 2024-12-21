@@ -9306,3 +9306,124 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [21Dec2024 23:01:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [21Dec2024 23:01:48.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [21Dec2024 23:01:48.632] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:02:18.681] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:02:18.681] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:02:18.681] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:02:23.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rorkvgp192d]: started parsing
+[21Dec2024 23:02:23.732] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10rorkvgp192d]: Consuming argument ``
+[21Dec2024 23:02:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gg34zrfhweo4]: started parsing
+[21Dec2024 23:02:23.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gg34zrfhweo4]: Consuming argument `q`
+[21Dec2024 23:02:23.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ur94vu0b53y]: started parsing
+[21Dec2024 23:02:23.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18ur94vu0b53y]: Consuming argument `qu`
+[21Dec2024 23:02:24.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c8eqq4kfdlj6]: started parsing
+[21Dec2024 23:02:24.109] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c8eqq4kfdlj6]: Consuming argument `qua`
+[21Dec2024 23:02:24.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150s226gv6qol]: started parsing
+[21Dec2024 23:02:24.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [150s226gv6qol]: Consuming argument `quar`
+[21Dec2024 23:02:24.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0isxw13vj5opp]: started parsing
+[21Dec2024 23:02:24.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0isxw13vj5opp]: Consuming argument `quart`
+[21Dec2024 23:02:24.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1stlhrng0jvp7]: started parsing
+[21Dec2024 23:02:24.727] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1stlhrng0jvp7]: Consuming argument `quartz`
+[21Dec2024 23:02:24.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uwkdzdak8cdf]: started parsing
+[21Dec2024 23:02:24.891] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uwkdzdak8cdf]: Consuming argument `quartza`
+[21Dec2024 23:02:25.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vodugrjof2j2]: started parsing
+[21Dec2024 23:02:25.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vodugrjof2j2]: Consuming argument `quartz`
+[21Dec2024 23:02:27.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125zrs5c3yrag]: started parsing
+[21Dec2024 23:02:27.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125zrs5c3yrag]: Consuming argument `quartz_block`
+[21Dec2024 23:02:27.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [125zrs5c3yrag]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:30.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dts1xbzd99n0]: started parsing
+[21Dec2024 23:02:30.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dts1xbzd99n0]: Consuming argument `quartz_block`
+[21Dec2024 23:02:30.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dts1xbzd99n0]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:30.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5wa8go81ifg]: started parsing
+[21Dec2024 23:02:30.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5wa8go81ifg]: Consuming argument `quartz_block`
+[21Dec2024 23:02:30.944] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5wa8go81ifg]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:31.019] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [146svcx06ve9t]: started parsing
+[21Dec2024 23:02:31.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [146svcx06ve9t]: Consuming argument `quartz_block`
+[21Dec2024 23:02:31.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [146svcx06ve9t]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:37.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da2wyce89v49]: started parsing
+[21Dec2024 23:02:37.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da2wyce89v49]: Consuming argument `quartz_block`
+[21Dec2024 23:02:37.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da2wyce89v49]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:37.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0912qnrve01ah]: started parsing
+[21Dec2024 23:02:37.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0912qnrve01ah]: Consuming argument `quartz_block`
+[21Dec2024 23:02:37.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0912qnrve01ah]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:37.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1288miq1sp8xg]: started parsing
+[21Dec2024 23:02:37.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1288miq1sp8xg]: Consuming argument `quartz_block`
+[21Dec2024 23:02:37.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1288miq1sp8xg]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:43.877] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ct5e3vid1ckl]: started parsing
+[21Dec2024 23:02:43.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ct5e3vid1ckl]: Consuming argument `quartz_block`
+[21Dec2024 23:02:43.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ct5e3vid1ckl]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:43.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7eyozhl8w9b]: started parsing
+[21Dec2024 23:02:43.878] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7eyozhl8w9b]: Consuming argument `quartz_block`
+[21Dec2024 23:02:43.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7eyozhl8w9b]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:44.042] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0he2nlpvhpa8b]: started parsing
+[21Dec2024 23:02:44.042] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0he2nlpvhpa8b]: Consuming argument `quartz_block`
+[21Dec2024 23:02:44.042] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0he2nlpvhpa8b]: Finished looking at arguments. Finalizing command.
+[21Dec2024 23:02:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[21Dec2024 23:02:46.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[21Dec2024 23:02:48.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:02:48.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:02:48.733] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:02:53.886] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[21Dec2024 23:02:54.168] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[21Dec2024 23:03:18.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:03:18.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:03:18.781] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:03:48.831] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:03:48.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:03:48.832] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:04:18.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:04:18.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:04:18.882] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:04:48.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:04:48.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:04:48.932] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:05:18.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:05:18.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:05:18.982] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:05:49.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:05:49.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:05:49.032] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:06:19.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:06:19.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:06:19.082] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:06:49.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:06:49.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:06:49.133] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:07:19.182] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:07:19.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:07:19.183] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:07:46.796] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[21Dec2024 23:07:46.798] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[21Dec2024 23:07:46.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[21Dec2024 23:07:46.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[21Dec2024 23:07:49.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:07:49.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:07:49.232] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:08:19.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:08:19.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:08:19.281] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:08:49.331] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:08:49.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:08:49.332] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:08:57.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Survival Mode]
+[21Dec2024 23:09:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[21Dec2024 23:09:01.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[21Dec2024 23:09:05.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[21Dec2024 23:09:19.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:09:19.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:09:19.382] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:09:49.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:09:49.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:09:49.431] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:10:19.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:10:19.481] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:10:19.482] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:10:49.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:10:49.532] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:10:49.532] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:10:54.585] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[21Dec2024 23:11:19.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:11:19.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:11:19.582] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[21Dec2024 23:11:49.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[21Dec2024 23:11:49.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[21Dec2024 23:11:49.632] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
