@@ -11,3 +11,11 @@
 [22Dec2024 00:26:59.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reflexont lost connection: Disconnected
 [22Dec2024 00:26:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reflexont left the game
 [22Dec2024 00:29:26.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
+[22Dec2024 00:38:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Survival Mode]
+[22Dec2024 00:38:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[22Dec2024 00:38:55.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[22Dec2024 00:39:01.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[22Dec2024 00:39:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[22Dec2024 00:39:12.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[22Dec2024 00:39:45.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Spectator Mode]
+[22Dec2024 00:40:03.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
