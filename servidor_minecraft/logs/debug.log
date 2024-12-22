@@ -10738,3 +10738,115 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Dec2024 00:43:28.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [22Dec2024 00:43:28.781] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [22Dec2024 00:43:28.781] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:43:58.832] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:43:58.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:43:58.833] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:44:28.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:44:28.881] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:44:28.882] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:44:58.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:44:58.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:44:58.932] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:45:28.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:45:28.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:45:28.983] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:45:59.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:45:59.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:45:59.032] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:46:29.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:46:29.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:46:29.083] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:46:59.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:46:59.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:46:59.131] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:47:26.993] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[22Dec2024 00:47:29.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:47:29.181] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:47:29.181] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:47:46.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[22Dec2024 00:47:46.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[22Dec2024 00:47:59.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:47:59.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:47:59.231] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:48:29.281] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:48:29.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:48:29.282] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:48:59.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:48:59.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:48:59.333] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:49:29.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:49:29.381] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:49:29.381] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:49:59.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:49:59.431] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:49:59.432] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:50:17.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Steelinvisible lost connection: Disconnected
+[22Dec2024 00:50:17.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Steelinvisible left the game
+[22Dec2024 00:50:17.716] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[22Dec2024 00:50:17.716] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[22Dec2024 00:50:17.786] [IO-Worker-93/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[22Dec2024 00:50:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Dec2024 00:50:24.984] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Waterfall.json
+[22Dec2024 00:50:24.984] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Dummy1.json
+[22Dec2024 00:50:24.985] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Chara.json
+[22Dec2024 00:50:24.985] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss3.json
+[22Dec2024 00:50:24.986] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro11.json
+[22Dec2024 00:50:24.986] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss4.json
+[22Dec2024 00:50:24.987] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss1.json
+[22Dec2024 00:50:24.987] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Boss2.json
+[22Dec2024 00:50:24.988] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro10.json
+[22Dec2024 00:50:24.988] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallGaster.json
+[22Dec2024 00:50:24.989] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall4.json
+[22Dec2024 00:50:24.989] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall5.json
+[22Dec2024 00:50:24.990] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Entrenador.json
+[22Dec2024 00:50:24.990] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro9.json
+[22Dec2024 00:50:24.990] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro6.json
+[22Dec2024 00:50:24.991] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro7.json
+[22Dec2024 00:50:24.991] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/waterfall3.json
+[22Dec2024 00:50:24.992] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro4.json
+[22Dec2024 00:50:24.992] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/watefall2.json
+[22Dec2024 00:50:24.992] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro5.json
+[22Dec2024 00:50:24.993] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro2.json
+[22Dec2024 00:50:24.993] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro3.json
+[22Dec2024 00:50:24.993] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Monstro1.json
+[22Dec2024 00:50:24.994] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/grillbys.json
+[22Dec2024 00:50:24.994] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands5.json
+[22Dec2024 00:50:24.994] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands6.json
+[22Dec2024 00:50:24.995] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands3.json
+[22Dec2024 00:50:24.995] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands4.json
+[22Dec2024 00:50:24.996] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/FinalBoss.json
+[22Dec2024 00:50:24.996] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Grovestreet.json
+[22Dec2024 00:50:24.997] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Core1.json
+[22Dec2024 00:50:24.997] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Core2.json
+[22Dec2024 00:50:24.997] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallRoku.json
+[22Dec2024 00:50:24.998] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/BossWaterfall.json
+[22Dec2024 00:50:24.998] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/WaterfallClover.json
+[22Dec2024 00:50:24.999] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands1.json
+[22Dec2024 00:50:24.999] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/Hotlands2.json
+[22Dec2024 00:50:25.000] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved config/trainers/groups/gym1/NewHome1.json
+[22Dec2024 00:50:25.001] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[22Dec2024 00:50:25.002] [Server thread/INFO] [com.selfdot.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[22Dec2024 00:50:25.002] [Server thread/INFO] [MapFrontiers/]: ServerStoppingEvent done
+[22Dec2024 00:50:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2024 00:50:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2024 00:50:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2024 00:50:25.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:overworld
+[22Dec2024 00:50:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:the_end
+[22Dec2024 00:50:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/twilightforest:twilight_forest
+[22Dec2024 00:50:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/lostcities:lostcity
+[22Dec2024 00:50:25.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[intento de verdad]'/minecraft:the_nether
+[22Dec2024 00:50:25.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save intento de verdad
+[22Dec2024 00:50:25.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete intento de verdad
+[22Dec2024 00:50:25.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2024 00:50:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2024 00:50:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Dec2024 00:50:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[22Dec2024 00:50:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2024 00:50:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Dec2024 00:50:25.177] [Server thread/DEBUG] [Cristel Lib/]: Closing RDP: Runtime Pack
+[22Dec2024 00:50:25.178] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[22Dec2024 00:50:25.179] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[22Dec2024 00:50:25.179] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[22Dec2024 00:50:25.179] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[22Dec2024 00:50:25.179] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[22Dec2024 00:50:25.180] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
