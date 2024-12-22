@@ -3,3 +3,8 @@
 [22Dec2024 00:04:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
 [22Dec2024 00:04:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Survival Mode]
 [22Dec2024 00:04:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Steelinvisible: Set own game mode to Creative Mode]
+[22Dec2024 00:16:59.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[22Dec2024 00:17:11.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
+[22Dec2024 00:17:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Spectator Mode]
+[22Dec2024 00:18:44.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Teleported Reflexont to Steelinvisible]
+[22Dec2024 00:18:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reflexont: Set own game mode to Creative Mode]
